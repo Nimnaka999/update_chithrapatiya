@@ -1,0 +1,33 @@
+export interface Ad {
+  id: string;
+  imageUrl: string;
+  linkUrl: string;
+  alt: string;
+}
+
+export const ads: Ad[] = [
+  {
+    id: 'home-top',
+    imageUrl: 'https://images-ext-1.discordapp.net/external/fxxjt-8a_ZKEb7XKwMS9zju-wRrxFEFO_G21iDrR168/https/i.ibb.co/gcPvv2M/Untitled-1.jpg?format=webp',
+    linkUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfZbPIEdnseuerG0T0Lj4c2ZvbRW4xboJ-UBgbL0CVRbwWILw/viewform?usp=publish-editor',
+    alt: 'Ad',
+  },
+  {
+    id: 'home-bottom',
+    imageUrl: 'https://images-ext-1.discordapp.net/external/fxxjt-8a_ZKEb7XKwMS9zju-wRrxFEFO_G21iDrR168/https/i.ibb.co/gcPvv2M/Untitled-1.jpg?format=webp',
+    linkUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfZbPIEdnseuerG0T0Lj4c2ZvbRW4xboJ-UBgbL0CVRbwWILw/viewform?usp=publish-editor',
+    alt: 'Ad',
+  },
+  {
+    id: 'watch-left',
+    imageUrl: 'https://images-ext-1.discordapp.net/external/fxxjt-8a_ZKEb7XKwMS9zju-wRrxFEFO_G21iDrR168/https/i.ibb.co/gcPvv2M/Untitled-1.jpg?format=webp',
+    linkUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfZbPIEdnseuerG0T0Lj4c2ZvbRW4xboJ-UBgbL0CVRbwWILw/viewform?usp=publish-editor',
+    alt: 'Ad',
+  },
+  {
+    id: 'watch-right',
+    imageUrl: 'https://images-ext-1.discordapp.net/external/fxxjt-8a_ZKEb7XKwMS9zju-wRrxFEFO_G21iDrR168/https/i.ibb.co/gcPvv2M/Untitled-1.jpg?format=webp',
+    linkUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfZbPIEdnseuerG0T0Lj4c2ZvbRW4xboJ-UBgbL0CVRbwWILw/viewform?usp=publish-editor',
+    alt: 'Ad',
+  },
+];
