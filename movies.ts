@@ -141,7 +141,7 @@ export const MOVIES_DB: MovieItem[] = [
   {
     id: "movie_the_innocents_2021",
     type: "movie",
-    title: "The qInnocents (2021)",
+    title: "The Innocents (2021)",
     description:
       "During the bright Nordic summer, a group of young children reveal their dark and mysterious supernatural powers when the adults aren't looking. What starts as innocent playtime quickly spirals into a chilling, suspenseful battle of wills, blurring the line between childhood innocence and pure terror.",
     sinhalDescription: `නොර්ඩික් ග්රීස්ම සෘතුවකදී, වැඩිහිටියන්ගේ අවධානයෙන් බැහැරව වෙසෙන කුඩා දරුවන් පිරිසක් තමන් සතු අද්භූත සහ අද්භූත බලයන් සොයා ගනු ලබනවා. මුලදී හුදෙක් සෙල්ලමක් ලෙස ඇරඹෙන මේ අත්භූත බල හුවමාරුව, පසුව මුළු මහත් ප්රජාවම බිහිසුණු අනතුරක හෙළන දරුණු, මානසික සටනක් බවට පරිවර්තනය වෙනවා. දරුවන්ගේ අහිංසකත්වය සහ අඳුරු ත්රාසය අතර රේඛාව බොඳ කරවන, මොහොතකටවත් ඇස් ඉවතට ගත නොහැකි සුපිරි Psychological Thriller අත්දැකීමක්!`,
@@ -343,7 +343,7 @@ export const MOVIES_DB: MovieItem[] = [
     posterUrl:
       "https://images-ext-1.discordapp.net/external/R389ZF6Mw6fMQAYP-15EIih40MjkZOmUf8jNkAn_V-A/https/i.ibb.co/PGB0Cx7N/MV5-BN2-Iy-OTc2-NWQt-Nz-Zh-MC00-ZGE1-LTg1-MDAt-NGE2-NWFm-OWRi-OTVj-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg?format=webp&width=253&height=375",
     backdropUrl:
-      "https://images-ext-1.discordapp.net/external/PZrJHGR1qqK5nw_rTPjf8JJW4SXWgGgLupr9HNcDEEo/https/i.ibb.co/Wp7Rj6MX/hghgt.jpg?format=webp",
+      "https://images-ext-1.discordapp.net/external/R389ZF6Mw6fMQAYP-15EIih40MjkZOmUf8jNkAn_V-A/https/i.ibb.co/PGB0Cx7N/MV5-BN2-Iy-OTc2-NWQt-Nz-Zh-MC00-ZGE1-LTg1-MDAt-NGE2-NWFm-OWRi-OTVj-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg?format=webp&width=594&height=881",
     imdbRating: 5.8,
     genres: ["Drama", "Horror", "Mystery", "Thriller"],
     categories: ["popular-movies"],
@@ -579,140 +579,140 @@ export const MOVIES_DB: MovieItem[] = [
   },
 },
   
-  // ── Add more movies above this line ──────────────────────────
+//   // ── Add more movies above this line ──────────────────────────
 
-  //----- Lullaby 2022 -------------------------
-  {
-    id: "lullaby_2022",
-    type: "movie",
-    title: "Lullaby (2022)",
-    description:
-      "After the sudden death of her husband, a woman is left to raise her newborn baby alone. While struggling with grief සහ motherhood, she discovers an ancient lullaby that brings forth a sinister entity.",
-    sinhalDescription: `සිය සැමියාගේ හදිසි වියෝවෙන් පසු, තම අලුත උපන් බිළිඳා තනිවම හදා වඩා ගැනීමට තරුණ මවකට සිදුවේ. ශෝකය සහ මාතෘත්වයේ වගකීම් අතර සිරවී සිටින ඇයට, පුරාණ නැළවිලි ගීයක් සොයා ගැනීමට ලැබේ. නමුත් ඇය නොදැනුවත්වම එම ගීය ගායනා කිරීමත් සමඟ, භයානක සහ අද්භූත බලවේගයක් ඇගේ පවුල වටා ගොනු වීමට පටන් ගනී.
+//   //----- Lullaby 2022 -------------------------
+//   {
+//     id: "lullaby_2022",
+//     type: "movie",
+//     title: "Lullaby (2022)",
+//     description:
+//       "After the sudden death of her husband, a woman is left to raise her newborn baby alone. While struggling with grief සහ motherhood, she discovers an ancient lullaby that brings forth a sinister entity.",
+//     sinhalDescription: `සිය සැමියාගේ හදිසි වියෝවෙන් පසු, තම අලුත උපන් බිළිඳා තනිවම හදා වඩා ගැනීමට තරුණ මවකට සිදුවේ. ශෝකය සහ මාතෘත්වයේ වගකීම් අතර සිරවී සිටින ඇයට, පුරාණ නැළවිලි ගීයක් සොයා ගැනීමට ලැබේ. නමුත් ඇය නොදැනුවත්වම එම ගීය ගායනා කිරීමත් සමඟ, භයානක සහ අද්භූත බලවේගයක් ඇගේ පවුල වටා ගොනු වීමට පටන් ගනී.
 
-තම දරුවා ආරක්ෂා කර ගැනීමට ඇයට හැකි වේවිද? නැතහොත් මෙම අඳුරු ශාපය ඇයව සහ ඇගේ දරුවාව සදහටම අඳුරට ඇද දමාවිද? මනෝවිද්‍යාත්මක භීෂණය සහ පවුලේ බැඳීම් මුසු වූ මෙම චිත්‍රපටය අවසානය දක්වාම ඔබව කුතුහලයෙන් තබනු ඇත.`,
-    posterUrl:
-      "https://images-ext-1.discordapp.net/external/bahRYKYXUA7YG6HhX5oKSJefJQZ9spPvhtLL2yJSWl0/https/i.ibb.co/LDFsf55v/MV5-BN2-Zm-OGY2-N2-Ut-ZDcz-ZC00-NWU5-LTk3-MGIt-OWQ2-NWQx-M2-E5-Nzk2-Xk-Ey-Xk-Fqc-Gc-V1-jpg.jpg?format=webp&width=581&height=861",
-    backdropUrl:
-      "https://images-ext-1.discordapp.net/external/YnJ6nPgWWw54mQaVbtrnN3FRiLyFdONXbr5UUbcQyHM/https/i.ibb.co/9mbSJbz0/Untitled-1.jpg?format=webp",
-    imdbRating: 5.3,
-    genres: ["Horror", "Thriller"],
-    categories: ["popular-movies"],
-    releaseYear: 2022,
-    language: "English",
-    country: "USA",
-    status: "Released",
-    runtime: "87 min",
-    castIds: [
-      "cast_lb_01", // Kira Guloien
-      "cast_lb_02", // Oona Chaplin
-      "cast_lb_03", // Spencer MacPherson
-      "cast_lb_04", // Ramón Rodríguez
-      "cast_lb_05", // Liane Balaban
-      "cast_lb_06", // Moni Ogunsuyi
-      "cast_lb_07", // Julie Khaner
-      "cast_lb_08", // Austin Ball
-      "cast_lb_09", // Alex Karzis
-      "cast_lb_10", // Adam Bernett
-      "cast_lb_11", // Sasha Rajamani
-      "cast_lb_12", // Hayden Finkelshtain
-      "cast_lb_13", // Brian McCaig
-      "cast_lb_14", // Mark Reinhardt
-      "cast_lb_15", // Brian McCormack
-    ],
-    video: {
-      embedUrl:
-        "https://drive.google.com/file/d/1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2/view?usp=drive_link",
-      downloadLinks: [
-        {
-          quality: "480P",
-          size: "",
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "lullaby-2022-480p",
-          filename: "lullaby.2022.480p.mp4",
-          downloadUrl:
-            "https://github.com/Nimnaka999/movie/releases/download/Lullaby/Lullaby.2022.480P.Bluray.X264.Aac5.1-.Yts.Mx.mp4",
-        },
-        {
-          quality: "720P",
-          size: "",
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "lullaby-2022-720p",
-          filename: "lullaby.2022.720p.mp4",
-          downloadUrl:
-            "/api/download?id=1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2&filename=lullaby.2022.720P.mp4",
-        },
-      ],
-    },
-  },
+// තම දරුවා ආරක්ෂා කර ගැනීමට ඇයට හැකි වේවිද? නැතහොත් මෙම අඳුරු ශාපය ඇයව සහ ඇගේ දරුවාව සදහටම අඳුරට ඇද දමාවිද? මනෝවිද්‍යාත්මක භීෂණය සහ පවුලේ බැඳීම් මුසු වූ මෙම චිත්‍රපටය අවසානය දක්වාම ඔබව කුතුහලයෙන් තබනු ඇත.`,
+//     posterUrl:
+//       "https://images-ext-1.discordapp.net/external/bahRYKYXUA7YG6HhX5oKSJefJQZ9spPvhtLL2yJSWl0/https/i.ibb.co/LDFsf55v/MV5-BN2-Zm-OGY2-N2-Ut-ZDcz-ZC00-NWU5-LTk3-MGIt-OWQ2-NWQx-M2-E5-Nzk2-Xk-Ey-Xk-Fqc-Gc-V1-jpg.jpg?format=webp&width=581&height=861",
+//     backdropUrl:
+//       "https://images-ext-1.discordapp.net/external/YnJ6nPgWWw54mQaVbtrnN3FRiLyFdONXbr5UUbcQyHM/https/i.ibb.co/9mbSJbz0/Untitled-1.jpg?format=webp",
+//     imdbRating: 5.3,
+//     genres: ["Horror", "Thriller"],
+//     categories: ["popular-movies"],
+//     releaseYear: 2022,
+//     language: "English",
+//     country: "USA",
+//     status: "Released",
+//     runtime: "87 min",
+//     castIds: [
+//       "cast_lb_01", // Kira Guloien
+//       "cast_lb_02", // Oona Chaplin
+//       "cast_lb_03", // Spencer MacPherson
+//       "cast_lb_04", // Ramón Rodríguez
+//       "cast_lb_05", // Liane Balaban
+//       "cast_lb_06", // Moni Ogunsuyi
+//       "cast_lb_07", // Julie Khaner
+//       "cast_lb_08", // Austin Ball
+//       "cast_lb_09", // Alex Karzis
+//       "cast_lb_10", // Adam Bernett
+//       "cast_lb_11", // Sasha Rajamani
+//       "cast_lb_12", // Hayden Finkelshtain
+//       "cast_lb_13", // Brian McCaig
+//       "cast_lb_14", // Mark Reinhardt
+//       "cast_lb_15", // Brian McCormack
+//     ],
+//     video: {
+//       embedUrl:
+//         "https://drive.google.com/file/d/1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2/view?usp=drive_link",
+//       downloadLinks: [
+//         {
+//           quality: "480P",
+//           size: "",
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "lullaby-2022-480p",
+//           filename: "lullaby.2022.480p.mp4",
+//           downloadUrl:
+//             "https://github.com/Nimnaka999/movie/releases/download/Lullaby/Lullaby.2022.480P.Bluray.X264.Aac5.1-.Yts.Mx.mp4",
+//         },
+//         {
+//           quality: "720P",
+//           size: "",
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "lullaby-2022-720p",
+//           filename: "lullaby.2022.720p.mp4",
+//           downloadUrl:
+//             "/api/download?id=1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2&filename=lullaby.2022.720P.mp4",
+//         },
+//       ],
+//     },
+//   },
 
-  // ── Cobweb (2023) ──────────────────────────
+//   // ── Cobweb (2023) ──────────────────────────
 
-  {
-    id: "cobweb_2023",
-    type: "movie",
-    title: "Cobweb (2023)",
-    description:
-      "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
-    sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
+//   {
+//     id: "cobweb_2023",
+//     type: "movie",
+//     title: "Cobweb (2023)",
+//     description:
+//       "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
+//     sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
 
-කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
+// කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
 
-සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
-    posterUrl: "/logo/img.jpg",
-    backdropUrl: "/logo/img.jpg",
-    imdbRating: 5.9,
-    genres: ["Horror", "Thriller"],
-    categories: ["popular-movies"],
-    releaseYear: 2023,
-    language: "English",
-    country: "USA",
-    status: "Released",
-    runtime: "88 min",
-    castIds: [
-      "cast_l_caplan", // Lizzy Caplan
-      "cast_a_starr", // Antony Starr
-      "cast_c_coleman", // Cleopatra Coleman
-      "cast_w_norman", // Woody Norman
-      "cast_l_busey", // Luke Busey
-      "cast_a_dragova", // Aleksandra Dragova
-      "cast_j_rincon", // Jay Rincon
-      "cast_a_kottas", // Anton Kottas
-      "cast_s_sampson", // Steffanie Sampson
-      "cast_j_mihaylov", // Jivko Mihaylov
-      "cast_i_nikolov", // Iliyan Nikolov
-      "cast_a_carra", // Alexander Carra
-      "cast_v_velikova", // Victoria Velikova
-      "cast_k_nichols", // Kate Nichols
-      "cast_l_bay", // Leah-Felicity Bay
-      "cast_j_robinson", // James Robinson
-      "cast_o_sussman", // Olivia Sussman
-      "cast_d_wilson", // Debra Wilson
-    ],
-    video: {
-      embedUrl: "",
-      downloadLinks: [
-        {
-          quality: "480P",
-          size: "",
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "cobweb-2023-480p",
-          filename: "cobweb.2023.480p.mp4",
-          downloadUrl: "",
-        },
-        {
-          quality: "720P",
-          size: "",
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "cobweb-2023-720p",
-          filename: "cobweb.2023.720p.mp4",
-          downloadUrl: "",
-        },
-      ],
-    },
-  },
-];
+// සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
+//     posterUrl: "/logo/img.jpg",
+//     backdropUrl: "/logo/img.jpg",
+//     imdbRating: 5.9,
+//     genres: ["Horror", "Thriller"],
+//     categories: ["popular-movies"],
+//     releaseYear: 2023,
+//     language: "English",
+//     country: "USA",
+//     status: "Released",
+//     runtime: "88 min",
+//     castIds: [
+//       "cast_l_caplan", // Lizzy Caplan
+//       "cast_a_starr", // Antony Starr
+//       "cast_c_coleman", // Cleopatra Coleman
+//       "cast_w_norman", // Woody Norman
+//       "cast_l_busey", // Luke Busey
+//       "cast_a_dragova", // Aleksandra Dragova
+//       "cast_j_rincon", // Jay Rincon
+//       "cast_a_kottas", // Anton Kottas
+//       "cast_s_sampson", // Steffanie Sampson
+//       "cast_j_mihaylov", // Jivko Mihaylov
+//       "cast_i_nikolov", // Iliyan Nikolov
+//       "cast_a_carra", // Alexander Carra
+//       "cast_v_velikova", // Victoria Velikova
+//       "cast_k_nichols", // Kate Nichols
+//       "cast_l_bay", // Leah-Felicity Bay
+//       "cast_j_robinson", // James Robinson
+//       "cast_o_sussman", // Olivia Sussman
+//       "cast_d_wilson", // Debra Wilson
+//     ],
+//     video: {
+//       embedUrl: "",
+//       downloadLinks: [
+//         {
+//           quality: "480P",
+//           size: "",
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "cobweb-2023-480p",
+//           filename: "cobweb.2023.480p.mp4",
+//           downloadUrl: "",
+//         },
+//         {
+//           quality: "720P",
+//           size: "",
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "cobweb-2023-720p",
+//           filename: "cobweb.2023.720p.mp4",
+//           downloadUrl: "",
+//         },
+//       ],
+//     },
+//   },
+// ];
