@@ -141,7 +141,7 @@ export const MOVIES_DB: MovieItem[] = [
   {
     id: "movie_the_innocents_2021",
     type: "movie",
-    title: "The Innocents (2021)",
+    title: "The qInnocents (2021)",
     description:
       "During the bright Nordic summer, a group of young children reveal their dark and mysterious supernatural powers when the adults aren't looking. What starts as innocent playtime quickly spirals into a chilling, suspenseful battle of wills, blurring the line between childhood innocence and pure terror.",
     sinhalDescription: `නොර්ඩික් ග්රීස්ම සෘතුවකදී, වැඩිහිටියන්ගේ අවධානයෙන් බැහැරව වෙසෙන කුඩා දරුවන් පිරිසක් තමන් සතු අද්භූත සහ අද්භූත බලයන් සොයා ගනු ලබනවා. මුලදී හුදෙක් සෙල්ලමක් ලෙස ඇරඹෙන මේ අත්භූත බල හුවමාරුව, පසුව මුළු මහත් ප්රජාවම බිහිසුණු අනතුරක හෙළන දරුණු, මානසික සටනක් බවට පරිවර්තනය වෙනවා. දරුවන්ගේ අහිංසකත්වය සහ අඳුරු ත්රාසය අතර රේඛාව බොඳ කරවන, මොහොතකටවත් ඇස් ඉවතට ගත නොහැකි සුපිරි Psychological Thriller අත්දැකීමක්!`,
