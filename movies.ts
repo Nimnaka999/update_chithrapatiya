@@ -622,7 +622,7 @@ export const MOVIES_DB: MovieItem[] = [
 //     ],
 //     video: {
 //       embedUrl:
-//         "https://drive.google.com/file/d/1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2/view?usp=drive_link",
+//         "",
 //       downloadLinks: [
 //         {
 //           quality: "480P",
@@ -632,7 +632,7 @@ export const MOVIES_DB: MovieItem[] = [
 //           slug: "lullaby-2022-480p",
 //           filename: "lullaby.2022.480p.mp4",
 //           downloadUrl:
-//             "https://github.com/Nimnaka999/movie/releases/download/Lullaby/Lullaby.2022.480P.Bluray.X264.Aac5.1-.Yts.Mx.mp4",
+//             "",
 //         },
 //         {
 //           quality: "720P",
@@ -642,7 +642,7 @@ export const MOVIES_DB: MovieItem[] = [
 //           slug: "lullaby-2022-720p",
 //           filename: "lullaby.2022.720p.mp4",
 //           downloadUrl:
-//             "/api/download?id=1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2&filename=lullaby.2022.720P.mp4",
+//             "",
 //         },
 //       ],
 //     },
