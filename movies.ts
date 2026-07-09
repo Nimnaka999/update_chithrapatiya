@@ -648,73 +648,73 @@ export const MOVIES_DB: MovieItem[] = [
 //     },
 //   },
 
-  // ── Cobweb (2023) ──────────────────────────
+//   // ── Cobweb (2023) ──────────────────────────
 
-  {
-    id: "cobweb_2023",
-    type: "movie",
-    title: "Cobweb (2023)",
-    description:
-      "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
-    sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
+//   {
+//     id: "cobweb_2023",
+//     type: "movie",
+//     title: "Cobweb (2023)",
+//     description:
+//       "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
+//     sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
 
-කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
+// කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
 
-සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
-    posterUrl: "https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    backdropUrl: "https://images-ext-1.discordapp.net/external/wQfiWu3EaMzTeqs24QHCAWloQ_kzZNJAyRd7fxXc3eU/https/i.ibb.co/MkpqS1vg/bhetrthrt.jpg?format=webp",
-    imdbRating: 5.9,
-    genres: ["Horror", "Thriller"],
-    categories: ["popular-movies"],
-    releaseYear: 2023,
-    language: "English",
-    country: "USA",
-    status: "Released",
-    runtime: "88 min",
-    castIds: [
-      "cast_l_caplan", // Lizzy Caplan
-      "cast_a_starr", // Antony Starr
-      "cast_c_coleman", // Cleopatra Coleman
-      "cast_w_norman", // Woody Norman
-      "cast_l_busey", // Luke Busey
-      "cast_a_dragova", // Aleksandra Dragova
-      "cast_j_rincon", // Jay Rincon
-      "cast_a_kottas", // Anton Kottas
-      "cast_s_sampson", // Steffanie Sampson
-      "cast_j_mihaylov", // Jivko Mihaylov
-      "cast_i_nikolov", // Iliyan Nikolov
-      "cast_a_carra", // Alexander Carra
-      "cast_v_velikova", // Victoria Velikova
-      "cast_k_nichols", // Kate Nichols
-      "cast_l_bay", // Leah-Felicity Bay
-      "cast_j_robinson", // James Robinson
-      "cast_o_sussman", // Olivia Sussman
-      "cast_d_wilson", // Debra Wilson
-    ],
-    video: {
-      embedUrl: "https://drive.google.com/file/d/1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY/view?usp=drive_link",
-      downloadLinks: [
-        {
-          quality: "480P",
-          size: , "633 MB"
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "cobweb-2023-480p",
-          filename: "cobweb.2023.480p.mp4",
-          downloadUrl: "https://github.com/Nimnaka999/movie/releases/download/wc/Cobweb.2023.480p.mp4",
-        },
-        {
-          quality: "720P",
-          size: "969 MB",
-          language: "English",
-          subtitle: "Sinhala",
-          slug: "cobweb-2023-720p",
-          filename: "cobweb.2023.720p.mp4",
-          downloadUrl: "/api/download?id=1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY=Cobweb.2023.480p.mp4",
-        },
-      ],
-    },
-  },
+// සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
+//     posterUrl: "https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+//     backdropUrl: "https://images-ext-1.discordapp.net/external/wQfiWu3EaMzTeqs24QHCAWloQ_kzZNJAyRd7fxXc3eU/https/i.ibb.co/MkpqS1vg/bhetrthrt.jpg?format=webp",
+//     imdbRating: 5.9,
+//     genres: ["Horror", "Thriller"],
+//     categories: ["popular-movies"],
+//     releaseYear: 2023,
+//     language: "English",
+//     country: "USA",
+//     status: "Released",
+//     runtime: "88 min",
+//     castIds: [
+//       "cast_l_caplan", // Lizzy Caplan
+//       "cast_a_starr", // Antony Starr
+//       "cast_c_coleman", // Cleopatra Coleman
+//       "cast_w_norman", // Woody Norman
+//       "cast_l_busey", // Luke Busey
+//       "cast_a_dragova", // Aleksandra Dragova
+//       "cast_j_rincon", // Jay Rincon
+//       "cast_a_kottas", // Anton Kottas
+//       "cast_s_sampson", // Steffanie Sampson
+//       "cast_j_mihaylov", // Jivko Mihaylov
+//       "cast_i_nikolov", // Iliyan Nikolov
+//       "cast_a_carra", // Alexander Carra
+//       "cast_v_velikova", // Victoria Velikova
+//       "cast_k_nichols", // Kate Nichols
+//       "cast_l_bay", // Leah-Felicity Bay
+//       "cast_j_robinson", // James Robinson
+//       "cast_o_sussman", // Olivia Sussman
+//       "cast_d_wilson", // Debra Wilson
+//     ],
+//     video: {
+//       embedUrl: "https://drive.google.com/file/d/1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY/view?usp=drive_link",
+//       downloadLinks: [
+//         {
+//           quality: "480P",
+//           size: , "633 MB"
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "cobweb-2023-480p",
+//           filename: "cobweb.2023.480p.mp4",
+//           downloadUrl: "https://github.com/Nimnaka999/movie/releases/download/wc/Cobweb.2023.480p.mp4",
+//         },
+//         {
+//           quality: "720P",
+//           size: "969 MB",
+//           language: "English",
+//           subtitle: "Sinhala",
+//           slug: "cobweb-2023-720p",
+//           filename: "cobweb.2023.720p.mp4",
+//           downloadUrl: "/api/download?id=1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY=Cobweb.2023.480p.mp4",
+//         },
+//       ],
+//     },
+//   },
 
 //----Barefoot_2014------------------------------
 
