@@ -1126,5 +1126,135 @@
     "character": "Glue Girl",
     "country": "United States",
     "biography": "Gabriella Garcia is an American actress known for her role in the film 'Yes, God, Yes'."
+  },
+
+  {
+    "id": "cast_evan_rachel_wood",
+    "name": "Evan Rachel Wood",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTA2OTM4NDI3NTheQTJeQWpwZ15BbWU3MDA4NzI3Mjc@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+    "character": "Daisy Kensington",
+    "country": "United States",
+    "biography": "American actress known for her roles in 'Thirteen', 'Westworld' and 'Barefoot'."
+  },
+  {
+    "id": "cast_scott_speedman",
+    "name": "Scott Speedman",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMWNhZDRhYzQtYTlmNi00MTI4LWI2MjItN2NlMjc3M2RiZTQxXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Jay Wheeler",
+    "country": "Canada",
+    "biography": "Canadian actor famous for 'Underworld' film series and 'Felicity'."
+  },
+  {
+    "id": "cast_jk_simmons",
+    "name": "J.K. Simmons",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    "character": "Mr. Wheeler",
+    "country": "United States",
+    "biography": "Oscar-winning actor renowned for 'Whiplash' and J. Jonah Jameson in 'Spider-Man'."
+  },
+  {
+    "id": "cast_treat_williams",
+    "name": "Treat Williams",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTg0MzcwOTkzNV5BMl5BanBnXkFtZTcwMDc3NTA3MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    "character": "Mr. Kensington",
+    "country": "United States",
+    "biography": "American actor known for his roles in 'The Deer Hunter' and 'Everwood'."
+  },
+  {
+    "id": "cast_kate_burton",
+    "name": "Kate Burton",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjExMDE1MTMzMV5BMl5BanBnXkFtZTYwMDQ2NDIz._V1_QL75_UX140_CR0,13,140,140_.jpg",
+    "character": "Mrs. Kensington",
+    "country": "United States",
+    "biography": "American actress best known for her role as Mrs. Landingham in 'The West Wing'."
+  },
+  {
+    "id": "cast_j_omar_castro",
+    "name": "J. Omar Castro",
+    "photo": "https://m.media-amazon.com/images/M/MV5BOTI1NDJlYWYtYzNjNS00YjQyLTgwZWYtNjRhNDUyZWE2MWEyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    "character": "Patient",
+    "country": "United States",
+    "biography": "Actor who has appeared in films such as 'Barefoot' and 'Way of War'."
+  },
+  {
+    "id": "cast_david_jensen",
+    "name": "David Jensen",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjI3OTkzMzQ5MV5BMl5BanBnXkFtZTgwNTEwOTMxMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    "character": "Dr. Bertleman",
+    "country": "United States",
+    "biography": "Actor known for his work in various television and film productions."
+  },
+  {
+    "id": "cast_jaqueline_fleming",
+    "name": "Jaqueline Fleming",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNmYwZGNlZmItMDMyOC00MWYyLWI0YWYtYzQ3N2Q0NDA4MzcxXkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,140_.jpg",
+    "character": "Nurse",
+    "country": "United States",
+    "biography": "Actress credited with numerous film and television appearances including 'Bering Sea Beast'."
+  },
+  {
+    "id": "cast_ashleigh_borman",
+    "name": "Ashleigh Borman",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNDRkZTViMDQtY2YwZC00ZWFhLTg5NTctNTg4ODNmNTU2MTFmXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+    "character": "Crying Woman",
+    "country": "United States",
+    "biography": "Actress and producer known for her roles in 'Criminal Minds' and 'Barefoot'."
+  },
+  {
+    "id": "cast_ricky_wayne",
+    "name": "Ricky Wayne",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTE1NmIxMmEtZTZlZi00YjE5LTk2ZDMtNjdkNWMzOTA5MTg2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    "character": "Mr. Jones",
+    "country": "United States",
+    "biography": "American actor active in the film and television industry."
+  },
+  {
+    "id": "cast_thomas_francis_murphy",
+    "name": "Thomas Francis Murphy",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTM2Y2I0MGItM2E4MS00MWY3LTk1ZDAtNDQyOTAwOTE0OTE1XkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+    "character": "Security Guard",
+    "country": "United States",
+    "biography": "Character actor known for his various roles in American cinema."
+  },
+  {
+    "id": "cast_julie_ann_jones",
+    "name": "Julie Ann Jones",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTIyZDIyZmUtNGE4OC00NDQwLWIwMzQtMTAwMmVmMGJjMDcxXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Party Guest",
+    "country": "United States",
+    "biography": "Actress with various credits in the entertainment industry."
+  },
+  {
+    "id": "cast_tony_fennelly",
+    "name": "Tony Fennelly",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTU4ZWU3ZGUtYmYyNC00NTVhLWEwMmYtZDJkMDNiOTI3YjQ3XkEyXkFqcGc@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+    "character": "Party Guest",
+    "country": "United States",
+    "biography": "Actor appearing in supporting roles in film and television."
+  },
+  {
+    "id": "cast_ian_nelson",
+    "name": "Ian Nelson",
+    "photo": "https://m.media-amazon.com/images/M/MV5BODQyNDIyMDE3NF5BMl5BanBnXkFtZTcwMDA0ODEwNQ@@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+    "character": "Young Person",
+    "country": "United States",
+    "biography": "Actor known for his roles in 'The Hunger Games' and 'The Boy Next Door'."
+  },
+  {
+    "id": "cast_andrea_moore",
+    "name": "Andrea Moore",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjIzM2Y5MGUtMTcxMy00ZDQ5LWI2OTUtYTgzODYwOGEzNWZjXkEyXkFqcGc@._V1_QL75_UX140_CR0,18,140,140_.jpg",
+    "character": "Dancer",
+    "country": "United States",
+    "biography": "Actress known for her roles in films such as 'The Change-Up' and 'Barefoot'."
+  },
+  {
+    "id": "cast_brian_oerly",
+    "name": "Brian Oerly",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMzI5MDFjMmQtNjFjYS00MWFhLWExZDYtZWY5NjI0ODUwNGQyXkEyXkFqcGc@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+    "character": "Police Officer",
+    "country": "United States",
+    "biography": "Actor known for his work in films like 'Escape Plan' and 'Barefoot'."
   }
+  
 ]
