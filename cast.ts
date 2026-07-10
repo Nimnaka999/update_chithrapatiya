@@ -1134,6 +1134,153 @@ export const CASTS_DB: Cast[] = [
     country: "United States",
     biography: "Actor known for his work in films like 'Escape Plan' and 'Barefoot'."
   },
+
+  
+  {
+    id: "cast_n_dyer",
+    name: "Natalia Dyer",
+    photo: "https://m.media-amazon.com/images/M/MV5BMDMwNWRkMTktMjQxMi00OGJjLWFjNDItNTU0ZmNiYjYwYTBhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+    character: "Alice",
+    country: "United States",
+    biography: "Natalia Dyer is an American actress best known for her role as Nancy Wheeler in the Netflix series 'Stranger Things,' earning critical acclaim and award nominations for her performance."
+  },
+  {
+    id: "cast_t_simons",
+    name: "Timothy Simons",
+    photo: "https://m.media-amazon.com/images/M/MV5BZDJmMjgwYzItNGQyMi00ZDg2LWJiNzEtZmYwZTNmNjNmMzg2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    character: "Father Murphy",
+    country: "United States",
+    biography: "Timothy Simons is an American actor born in 1977, known for his roles in TV series such as 'The Office,' 'Parks and Recreation,' and 'The Good Place,' as well as his film appearances."
+  },
+  {
+    id: "cast_w_novogratz",
+    name: "Wolfgang Novogratz",
+    photo: "",
+    character: "Chris",
+    country: "United States",
+    biography: "Wolfgang Novogratz is an American actor known for his roles in coming-of-age films, including his portrayal of Chris in the 2019 film 'Yes, God, Yes'."
+  },
+  {
+    id: "cast_f_reale",
+    name: "Francesca Reale",
+    photo: "https://m.media-amazon.com/images/M/MV5BM2UxNDk3OGItZjBlMi00OGNkLThmZGUtMmFhMDExNjJkMzA5XkEyXkFqcGc@._V1_CR628,145,808,1212_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Laura",
+    country: "United States",
+    biography: "Francesca Reale is an American actress known for her role as Heather in 'Stranger Things' and for her performance as Laura in 'Yes, God, Yes'."
+  },
+  {
+    id: "cast_s_blackwell",
+    name: "Susan Blackwell",
+    photo: "https://m.media-amazon.com/images/M/MV5BNGZmNmEwYjItNDU5YS00MWI0LTgzNGQtOGI3YzJmMzdmNzFlXkEyXkFqcGc@._V1_CR280,3,1385,2077_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Gina",
+    country: "United States",
+    biography: "Susan Blackwell is an American actress, writer, and singer, well-known for her work in theater and her recurring role as herself in the series 'Side by Side by Susan Blackwell'."
+  },
+  {
+    id: "cast_a_boe",
+    name: "Alisha Boe",
+    photo: "https://m.media-amazon.com/images/M/MV5BMTQ2MDcwODUwOF5BMl5BanBnXkFtZTgwMjcxMTg0ODE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+    character: "Nina",
+    country: "United States",
+    biography: "Alisha Boe is a Norwegian-born American actress best known for her role as Jessica Davis in the Netflix series '13 Reasons Why'."
+  },
+  {
+    id: "cast_d_champlin",
+    name: "Donna Lynne Champlin",
+    photo: "https://m.media-amazon.com/images/M/MV5BZDllNGZhZGEtYWMxYS00Yzc3LTlmYzQtYTVhOWU5MDlhNTIxXkEyXkFqcGc@._V1_CR50,75,582,873_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Mrs. Veda",
+    country: "United States",
+    biography: "Donna Lynne Champlin is an American actress and singer, widely recognized for her role as Paula Proctor in the television series 'Crazy Ex-Girlfriend'."
+  },
+  {
+    id: "cast_p_wierling",
+    name: "Parker Wierling",
+    photo: "https://m.media-amazon.com/images/M/MV5BOWQwYzMzZDgtZjlmMC00OWYwLWFhOTctNjhjMDQxMzE1ZGMyXkEyXkFqcGc@._V1_CR706,5,2132,3198_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Wade",
+    country: "United States",
+    biography: "Parker Wierling is an American actor known for his appearances in various television series and independent film projects."
+  },
+  {
+    id: "cast_a_shrum",
+    name: "Allison Shrum",
+    photo: "https://m.media-amazon.com/images/M/MV5BMjgxODAwMDAtY2QwMy00YWI1LThmNmUtNmYzNDEzMGRiOWIwXkEyXkFqcGc@._V1_CR1,1,1824,2736_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Heather",
+    country: "United States",
+    biography: "Allison Shrum is an American actress who has appeared in several film and television productions, including her role in 'Yes, God, Yes'."
+  },
+  {
+    id: "cast_m_lewis",
+    name: "Matt Lewis",
+    photo: "https://m.media-amazon.com/images/M/MV5BZGNlMzE2YTItMDNiOS00MzI0LWEyZjYtZmYzNzBiMGRkNGQ3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    character: "Ron (Alice's Father)",
+    country: "United Kingdom",
+    biography: "Matthew Lewis is an English actor best known for portraying Neville Longbottom in the Harry Potter film series."
+  },
+  {
+    id: "cast_c_driest",
+    name: "Carey Van Driest",
+    photo: "https://m.media-amazon.com/images/M/MV5BYzcwNDIzMTItYzdhNi00ZjlkLTkzNWEtYzQ2YjhmYTkwNTdkXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Alice's Mother",
+    country: "United States",
+    biography: "Carey Van Driest is an American actress known for her work in various theater and television productions."
+  },
+  {
+    id: "cast_p_fisher",
+    name: "Pat Fisher",
+    photo: "",
+    character: "N/A",
+    country: "United Kingdom",
+    biography: "Pat Fisher is a British actor known for supporting roles in television and film."
+  },
+  {
+    id: "cast_b_nesbitt",
+    name: "Blair Nesbitt",
+    photo: "https://m.media-amazon.com/images/M/MV5BYzQ0Yjc5OWMtMTA1Yi00M2FlLThjNGYtOWYxMjBkMGExNjk2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    character: "N/A",
+    country: "United States",
+    biography: "Blair Nesbitt is an American actor known for small screen roles and appearances in independent films."
+  },
+  {
+    id: "cast_j_ward",
+    name: "John Henry Ward",
+    photo: "https://m.media-amazon.com/images/M/MV5BNWFiYWMyODMtOWUyNS00MWNhLTlmMzEtNzllNjc1OGM3ZGMyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    character: "Adam",
+    country: "United States",
+    biography: "John Henry Ward is an American actor who has appeared in several film projects."
+  },
+  {
+    id: "cast_p_hullett",
+    name: "Paige Hullett",
+    photo: "https://m.media-amazon.com/images/M/MV5BMjViNDk3ZGMtNzdlMS00NjczLTgwMDAtOTFjMGE1MjFlODNhXkEyXkFqcGc@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+    character: "Senior Leader",
+    country: "United States",
+    biography: "Paige Hullett is an American actress known for her roles in independent films and television."
+  },
+  {
+    id: "cast_t_johnston",
+    name: "Tre'len Johnston",
+    photo: "https://m.media-amazon.com/images/M/MV5BMWZhMTRkM2QtZTAxMy00MTZhLThmMjctZDMwZWM0ODQ2YmFhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+    character: "Andrew",
+    country: "United States",
+    biography: "Tre'len Johnston is an American actor and performer."
+  },
+  {
+    id: "cast_r_shearer",
+    name: "RJ Shearer",
+    photo: "https://m.media-amazon.com/images/M/MV5BMTA0MzIzOTU2NjheQTJeQWpwZ15BbWU4MDcxNDk5NDAy._V1_QL75_UX140_CR0,5,140,140_.jpg",
+    character: "N/A",
+    country: "United States",
+    biography: "RJ Shearer is an American actor and production crew member."
+  },
+  {
+    id: "cast_g_garcia",
+    name: "Gabriella Garcia",
+    photo: "https://m.media-amazon.com/images/M/MV5BMjlmZmZhYWUtZWEzZi00ZGMwLWEzNzYtODQ1NzdjN2NlNDdiXkEyXkFqcGc@._V1_CR1,0,1023,1535_QL75_UX140_CR0,12,140,140_.jpg",
+    character: "Glue Girl",
+    country: "United States",
+    biography: "Gabriella Garcia is an American actress known for her role in the film 'Yes, God, Yes'."
+  },
+
   
   
   // Add more cast members above this line 
