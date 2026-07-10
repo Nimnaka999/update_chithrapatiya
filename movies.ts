@@ -704,6 +704,60 @@ export const MOVIES_DB: MovieItem[] = [
   
 
 
-    //----new movie here------------------------------
+   // ── Cobweb (2023) ──────────────────────────
+
+  {
+    id: "cobweb_2023",
+    type: "movie",
+    title: "Cobweb (2023)",
+    description:
+      "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
+    sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
+
+කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
+
+සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
+    posterUrl: "https://cdn.discordapp.com/attachments/1468498906231996497/1524873966835994835/rfnbhr.jpg?ex=6a51550c&is=6a50038c&hm=0e1a4751d6c40a04e3869ed11809e85814364be15c7b368fbf21bf16346e0455&",
+    backdropUrl: "https://images-ext-1.discordapp.net/external/wQfiWu3EaMzTeqs24QHCAWloQ_kzZNJAyRd7fxXc3eU/https/i.ibb.co/MkpqS1vg/bhetrthrt.jpg?format=webp",
+    imdbRating: 5.9,
+    genres: ["Horror", "Thriller"],
+    categories: ["popular-movies"],
+    releaseYear: 2023,
+    language: "English",
+    country: "USA",
+    status: "Released",
+    runtime: "88 min",
+    castIds: [
+      "cast_l_caplan", // Lizzy Caplan
+      "cast_a_starr", // Antony Starr
+      "cast_c_coleman", // Cleopatra Coleman
+      "cast_w_norman", // Woody Norman
+      "cast_a_dragova", // Aleksandra Dragova
+      "cast_d_wilson", // Debra Wilson
+    ],
+    video: {
+      embedUrl: "",
+      downloadLinks: [
+        {
+          quality: "480P",
+          size: "",
+          language: "English",
+          subtitle: "Sinhala",
+          slug: "cobweb-2023-480p",
+          filename: "cobweb.2023.480p.mp4",
+          downloadUrl: "",
+        },
+        {
+          quality: "720P",
+          size: "",
+          language: "English",
+          subtitle: "Sinhala",
+          slug: "cobweb-2023-720p",
+          filename: "cobweb.2023.720p.mp4",
+          downloadUrl: "",
+        },
+      ],
+    },
+  },
 
 ];
