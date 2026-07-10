@@ -698,6 +698,69 @@
       ]
     }
   }
+  ,
+  {
+    "id": "ggg_2020",
+    "type": "movie",
+    "title": "gggggggggg",
+    "description": "After the sudden death of her husband, a woman is left to raise her newborn baby alone. While struggling with grief සහ motherhood, she discovers an ancient lullaby that brings forth a sinister entity.",
+    "sinhalDescription": "සිය සැමියාගේ හදිසි වියෝවෙන් පසු, තම අලුත උපන් බිළිඳා තනිවම හදා වඩා ගැනීමට තරුණ මවකට සිදුවේ. ශෝකය සහ මාතෘත්වයේ වගකීම් අතර සිරවී සිටින ඇයට, පුරාණ නැළවිලි ගීයක් සොයා ගැනීමට ලැබේ. නමුත් ඇය නොදැනුවත්වම එම ගීය ගායනා කිරීමත් සමඟ, භයානක සහ අද්භූත බලවේගයක් ඇගේ පවුල වටා ගොනු වීමට පටන් ගනී.\n\nතම දරුවා ආරක්ෂා කර ගැනීමට ඇයට හැකි වේවිද? නැතහොත් මෙම අඳුරු ශාපය ඇයව සහ ඇගේ දරුවාව සදහටම අඳුරට ඇද දමාවිද? මනෝවිද්‍යාත්මක භීෂණය සහ පවුලේ බැඳීම් මුසු වූ මෙම චිත්‍රපටය අවසානය දක්වාම ඔබව කුතුහලයෙන් තබනු ඇත.",
+    "posterUrl": "https://images-ext-1.discordapp.net/external/bahRYKYXUA7YG6HhX5oKSJefJQZ9spPvhtLL2yJSWl0/https/i.ibb.co/LDFsf55v/MV5-BN2-Zm-OGY2-N2-Ut-ZDcz-ZC00-NWU5-LTk3-MGIt-OWQ2-NWQx-M2-E5-Nzk2-Xk-Ey-Xk-Fqc-Gc-V1-jpg.jpg?format=webp&width=581&height=861",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/YnJ6nPgWWw54mQaVbtrnN3FRiLyFdONXbr5UUbcQyHM/https/i.ibb.co/9mbSJbz0/Untitled-1.jpg?format=webp",
+    "imdbRating": 5.3,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "categories": [
+      "popular-movies"
+    ],
+    "releaseYear": 2022,
+    "language": "English",
+    "country": "USA",
+    "status": "Released",
+    "runtime": "87 min",
+    "castIds": [
+      "cast_lb_01",
+      "cast_lb_02",
+      "cast_lb_03",
+      "cast_lb_04",
+      "cast_lb_05",
+      "cast_lb_06",
+      "cast_lb_07",
+      "cast_lb_08",
+      "cast_lb_09",
+      "cast_lb_10",
+      "cast_lb_11",
+      "cast_lb_12",
+      "cast_lb_13",
+      "cast_lb_14",
+      "cast_lb_15"
+    ],
+    "video": {
+      "embedUrl": "https://drive.google.com/file/d/1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2/view?usp=drive_link",
+      "downloadLinks": [
+        {
+          "quality": "480P",
+          "size": "",
+          "language": "English",
+          "subtitle": "Sinhala",
+          "slug": "lullaby-2022-480p",
+          "filename": "lullaby.2022.480p.mp4",
+          "downloadUrl": "https://github.com/Nimnaka999/movie/releases/download/Lullaby/Lullaby.2022.480P.Bluray.X264.Aac5.1-.Yts.Mx.mp4"
+        },
+        {
+          "quality": "720P",
+          "size": "",
+          "language": "English",
+          "subtitle": "Sinhala",
+          "slug": "lullaby-2022-720p",
+          "filename": "lullaby.2022.720p.mp4",
+          "downloadUrl": "/api/download?id=1mu_9tEmwK4y-VEEQEgzmVNMq2BsraGC2&filename=lullaby.2022.720P.mp4"
+        }
+      ]
+    }
+  },
   
 
  
