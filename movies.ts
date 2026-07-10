@@ -702,68 +702,7 @@ export const MOVIES_DB: MovieItem[] = [
   },
 },
   
-  //----yes god yes 2019------------------------------
 
- {
-  id: "yes_god_yes_2019",
-  type: "movie",
-  title: "Yes, God, Yes (2019)",
-  description: "(18+) Yes, God, Yes (2019) is a coming-of-age comedy-drama set in the early 2000s that follows Alice, a sheltered Catholic schoolgirl who finds herself plagued by guilt and confusion after a rumor about her sexuality spreads through her community. In an attempt to suppress her burgeoning desires and seek redemption, she attends a religious retreat, only to discover that the adults and peers preaching abstinence are often struggling with their own private hypocrisies. Ultimately, the film offers a humorous and relatable look at the awkward intersection of teenage exploration, religious dogma, and the search for authentic self-identity.",
-  sinhalDescription: "(18+) Yes, God, Yes (2019) චිත්‍රපටය 2000 දශකයේ මුල් භාගයේ පසුබිමක දිවෙන, ආගමික පරිසරයක හැදෙන වැඩෙන "ඇලිස්" නම් යෞවනියකගේ කතාවක් අළලා නිර්මාණය වූ චිත්‍රපටයකි. ඇය තමා තුළ ඇතිවන ස්වාභාවික ලිංගික කුතුහලය සහ ආශාවන් නිසා දැඩි වරදකාරී හැඟීමකින් සහ පීඩනයකින් පෙළෙන අතර, එයින් මිදීමට සහ පව් කමාව ලබා ගැනීමට ඇය ආගමික කඳවුරකට සහභාගී වේ. කෙසේ වෙතත්, එම ස්ථානයේදී ඇයට වැටහෙන්නේ තමන්ට සංයමය ගැන දේශනා කරන වැඩිහිටියන් සහ සෙසු අය පවා තමන්ගේම රහසිගත ගැටලු සහ කුහකකම්වලින් පිරී සිටින බවයි. යෞවන වියේ ගැටුම්, ආගමික දෘෂ්ටිවාද සහ තමන් කවුදැයි හඳුනා ගැනීමේ ක්‍රියාවලිය හාස්‍යජනක ලෙසත්, යථාර්ථවාදී ලෙසත් මෙම චිත්‍රපටය මගින් නිරූපණය කරයි.",
-  posterUrl: "",
-  backdropUrl: "",
-  imdbRating: 6.1,
-  genres: ["Comedy", "Drama", "Romance"],
-  categories: ["popular-movies", "trending"],
-  releaseYear: 2019,
-  language: "English",
-  country: "USA",
-  status: "Released",
-  runtime: "77 min",
-  castIds: [
-    "cast_n_dyer",
-    "cast_t_simons",
-    "cast_w_novogratz",
-    "cast_f_reale",
-    "cast_s_blackwell",
-    "cast_a_boe",
-    "cast_d_champlin",
-    "cast_p_wierling",
-    "cast_a_shrum",
-    "cast_m_lewis",
-    "cast_c_driest",
-    "cast_p_fisher",
-    "cast_b_nesbitt",
-    "cast_j_ward",
-    "cast_p_hullett",
-    "cast_t_johnston",
-    "cast_r_shearer",
-    "cast_g_garcia"
-  ],
-  video: {
-    embedUrl: "https://drive.google.com/file/d/1oaxj_cTJpxKDxIqgLCmjwc8yLkufpOS-/view?usp=sharing",
-    downloadLinks: [
-      {
-        quality: "720P",
-        size: "1.45 GB",
-        language: "English",
-        subtitle: "Sinhala",
-        slug: "Yes-God-Yes-2019-720p",
-        filename: "Yes.God.Yes.2019.720p.mp4",
-        downloadUrl: "/api/download?id=1oaxj_cTJpxKDxIqgLCmjwc8yLkufpOS-&filename=Yes.God.Yes.2019.720p.mp4",
-      },
-      {
-        quality: "480P",
-        size: "300 MB",
-        language: "English",
-        subtitle: "Sinhala",
-        slug: "Yes.God-Yes-2019-480p",
-        filename: "Yes.God.Yes.2019.480p.mp4",
-        downloadUrl: "",
-      },
-    ],
-  },
-},
 
     //----new movie here------------------------------
 
