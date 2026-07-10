@@ -1303,6 +1303,126 @@
     "character": "Monster Sarah",
     "country": "USA",
     "biography": "Debra Wilson is a renowned American actress and comedian, famously known for her work on MADtv. In 'Cobweb', she provides the physical performance for the creature."
+  },
+  {
+    "id": "cast_o_chaplin",
+    "name": "Oona Chaplin",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oona_Chaplin_2013.jpg",
+    "character": "Rachel",
+    "country": "Spain",
+    "biography": "Oona Chaplin is a talented actress widely recognized for her role in 'Game of Thrones'. She delivers a powerful performance as a mother protecting her child in 'Lullaby'."
+  },
+  {
+    "id": "cast_r_rodriguez",
+    "name": "Ramón Rodríguez",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjA5MTY2ODk2NF5BMl5BanBnXkFtZTcwNDg3MzI5OA@@._V1_.jpg",
+    "character": "John",
+    "country": "USA",
+    "biography": "Ramón Rodríguez is an American actor known for his roles in 'The Wire'. He portrays the father, John, in this supernatural horror film."
+  },
+  {
+    "id": "cast_k_guloien",
+    "name": "Kira Guloien",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNGE0Mzg3YjAtNmE2Yy00MjBlLTg4MmMtOGE4NTJlYTMxNTgzXkEyXkFqcGdeQXVyMzA4NDU0Mjg@._V1_.jpg",
+    "character": "Lilith",
+    "country": "Canada",
+    "biography": "Kira Guloien is a versatile actress who brings the terrifying presence of the supernatural entity Lilith to life."
+  },
+  {
+    "id": "cast_l_balaban",
+    "name": "Liane Balaban",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Liane_Balaban_TIFF_2012.jpg",
+    "character": "Vivian",
+    "country": "Canada",
+    "biography": "Liane Balaban is a Canadian actress known for 'New Waterford Girl'. She plays a mysterious and key character in the story."
+  },
+  {
+    "id": "cast_s_macpherson",
+    "name": "Spencer MacPherson",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZDU3MTI3YjUtMGZlOC00Mjg5LWE2NTktZjQzOTgxNTFhYmFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "character": "Dr. Weston",
+    "country": "Canada",
+    "biography": "Spencer MacPherson is a Canadian actor best known for 'Degrassi: Next Class', appearing here in a supporting role."
+  },
+  {
+    "id": "cast_m_ogunsuyi",
+    "name": "Moni Ogunsuyi",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZWQxY2U0YTAtZjJmZS00MGVjLWIyYjUtMTg1OTk3YmY2MTI0XkEyXkFqcGdeQXVyMjg2MTMyMDI@._V1_.jpg",
+    "character": "Clerk",
+    "country": "Canada",
+    "biography": "Moni Ogunsuyi is an emerging talent who portrays the Clerk in this unsettling horror thriller."
+  },
+  {
+    "id": "cast_a_ball",
+    "name": "Austin Ball",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZmI4Njc4OTYtN2IyOS00YTE1LTlhZjItOGFiNzg1NDFlMDlmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+    "character": "Aaron",
+    "country": "Canada",
+    "biography": "Austin Ball is a Canadian actor who brings depth to the character of Aaron."
+  },
+  {
+    "id": "cast_j_khaner",
+    "name": "Julie Khaner",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZWZlOWM4YmItNjkxMC00Njg4LWIwZDAtZDUwZTk4ZjY5NjA4XkEyXkFqcGdeQXVyMTk0NjcwMTM@._V1_.jpg",
+    "character": "Nurse",
+    "country": "Canada",
+    "biography": "Julie Khaner is an experienced actress providing a steady performance as the nurse in the film."
+  },
+  {
+    "id": "cast_a_karzis",
+    "name": "Alex Karzis",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ5MjUwNTYwNl5BMl5BanBnXkFtZTcwMjE5NzY2NA@@._V1_.jpg",
+    "character": "Dr. Aris",
+    "country": "Canada",
+    "biography": "Alex Karzis is a veteran voice and screen actor, bringing an authoritative presence to his role."
+  },
+  {
+    "id": "cast_a_bernett",
+    "name": "Adam Bernett",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTY3MjE0NDcxNl5BMl5BanBnXkFtZTgwNTI4MDY4MzE@._V1_.jpg",
+    "character": "Shomrim #1",
+    "country": "USA",
+    "biography": "Adam Bernett is an actor known for his dedicated supporting roles in various film and television projects."
+  },
+  {
+    "id": "cast_s_rajamani",
+    "name": "Sasha Rajamani",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTAyNDcyYjctNjQ5OC00N2MyLWJmNDEtNDk2Njg3Mzg4YjUzXkEyXkFqcGdeQXVyMzA4NDU0Mjg@._V1_.jpg",
+    "character": "FedEx Delivery Guy",
+    "country": "Canada",
+    "biography": "Sasha Rajamani is a performing artist who makes a brief but impactful appearance."
+  },
+  {
+    "id": "cast_h_finkelshtain",
+    "name": "Hayden Finkelshtain",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTY5MDc3MzY2OF5BMl5BanBnXkFtZTgwNjA0MTg1NjM@._V1_.jpg",
+    "character": "Shomrim #2",
+    "country": "Canada",
+    "biography": "Hayden Finkelshtain is a talented actor contributing to the tension of the story."
+  },
+  {
+    "id": "cast_b_mccaig",
+    "name": "Brian McCaig",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjA5OTg2MTU5NF5BMl5BanBnXkFtZTcwNTI1OTU4NA@@._V1_.jpg",
+    "character": "Benny",
+    "country": "Canada",
+    "biography": "Brian McCaig is an actor whose performance adds to the realistic tone of the film."
+  },
+  {
+    "id": "cast_m_reinhardt",
+    "name": "Mark Reinhardt",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTM1Zjk5NjItOTFlNS00YTVhLWI4NDMtN2Y0MWEwOTc2Zjg5XkEyXkFqcGdeQXVyMTI0MTk5MzYw._V1_.jpg",
+    "character": "Young Man",
+    "country": "Canada",
+    "biography": "Mark Reinhardt is a character actor who brings a memorable presence to the screen."
+  },
+  {
+    "id": "cast_b_mccormack",
+    "name": "Brian McCormack",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjI0MjA1ODg3Nl5BMl5BanBnXkFtZTgwNTU1MDM3OTE@._V1_.jpg",
+    "character": "Security Guard",
+    "country": "Canada",
+    "biography": "Brian McCormack is a reliable actor providing a grounded performance in the film."
   }
 ]
   
