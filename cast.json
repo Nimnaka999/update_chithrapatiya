@@ -1255,6 +1255,55 @@
     "character": "Police Officer",
     "country": "United States",
     "biography": "Actor known for his work in films like 'Escape Plan' and 'Barefoot'."
+  },
+  {
+    "id": "cast_l_caplan",
+    "name": "Lizzy Caplan",
+    "photo": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/03/cobweb_nwg91t.jpg",
+    "character": "Carol",
+    "country": "USA",
+    "biography": "Lizzy Caplan is an American actress known for her roles in 'Mean Girls', 'Masters of Sex', and her compelling performance as the mother in the horror film 'Cobweb'."
+  },
+  {
+    "id": "cast_a_starr",
+    "name": "Antony Starr",
+    "photo": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/antony-starr-cobweb.jpg",
+    "character": "Mark",
+    "country": "New Zealand",
+    "biography": "Antony Starr is a New Zealand actor widely recognized for playing Homelander in 'The Boys'. In 'Cobweb', he portrays the unsettling father, Mark."
+  },
+  {
+    "id": "cast_c_coleman",
+    "name": "Cleopatra Coleman",
+    "photo": "https://www.jacketsmasters.com/wp-content/uploads/2023/10/cobweb-cleopatra-coleman-leather-jacket.jpg",
+    "character": "Miss Devine",
+    "country": "Australia",
+    "biography": "Cleopatra Coleman is an Australian actress who gained fame for 'The Last Man on Earth'. She plays the teacher Miss Devine in the film."
+  },
+  {
+    "id": "cast_w_norman",
+    "name": "Woody Norman",
+    "photo": "https://ca-times.brightspotcdn.com/dims4/default/0c985a4/2147483647/strip/true/crop/6048x4024+0+0/resize/1200x798!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2F06%2F15446fbf4b1e923edc02c4f6347e%2Fcobweb-cw-d01-00177-r.jpg",
+    "character": "Peter",
+    "country": "UK",
+    "biography": "Woody Norman is a young British actor known for his acclaimed role in 'C'mon C'mon'. He stars as the lead character Peter in 'Cobweb'."
+  },
+  {
+    "id": "cast_a_dragova",
+    "name": "Aleksandra Dragova",
+    "photo": "https://halloweendailynews.com/wp-content/uploads/2023/10/Aleksandra-Dragova-interview.jpg",
+    "character": "Sarah",
+    "country": "Bulgaria",
+    "biography": "Aleksandra Dragova is a Bulgarian actress and dancer who brings a chilling presence to the screen as Sarah in this horror thriller."
+  },
+  {
+    "id": "cast_d_wilson",
+    "name": "Debra Wilson",
+    "photo": "https://images.thedirect.com/media/article_full/cobweb-movie.jpg",
+    "character": "Monster Sarah",
+    "country": "USA",
+    "biography": "Debra Wilson is a renowned American actress and comedian, famously known for her work on MADtv. In 'Cobweb', she provides the physical performance for the creature."
   }
+]
   
 ]
