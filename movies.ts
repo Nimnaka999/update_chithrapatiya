@@ -717,7 +717,7 @@ export const MOVIES_DB: MovieItem[] = [
 කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
 
 සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
-    posterUrl: "https://cdn.discordapp.com/attachments/1468498906231996497/1524873966835994835/rfnbhr.jpg?ex=6a51550c&is=6a50038c&hm=0e1a4751d6c40a04e3869ed11809e85814364be15c7b368fbf21bf16346e0455&",
+    posterUrl: "https://images-ext-1.discordapp.net/external/_LljFaI--2k8wtnsYm_ifHlpQSVsU8T2ErgL7PemoF0/https/i.ibb.co/cKgwc1rY/rfnbhr.jpg?format=webp&width=581&height=860",
     backdropUrl: "https://images-ext-1.discordapp.net/external/wQfiWu3EaMzTeqs24QHCAWloQ_kzZNJAyRd7fxXc3eU/https/i.ibb.co/MkpqS1vg/bhetrthrt.jpg?format=webp",
     imdbRating: 5.9,
     genres: ["Horror", "Thriller"],
