@@ -102,7 +102,7 @@
       "cast_rec3_18"
     ],
     "video": {
-      "embedUrl": "https://mega.nz/file/OOZjxDqZ#bjZ5O_bKDumpf1J_ymUwtex3QsqXI6LKWXucf5tqgcg",
+      "embedUrl": "https://drive.google.com/file/d/1arUcbOVEbrMnKOpAa_E2lo6KvSPDBJ4B/view",
       "downloadLinks": [
         {
           "quality": "720P",
@@ -111,7 +111,7 @@
           "subtitle": "Sinhala",
           "slug": "rec-3-genesis-2012-720p",
           "filename": "Rec.3.Genesis.2012.mp4",
-          "downloadUrl": "/api/download?url=https://mega.nz/file/OOZjxDqZ#bjZ5O_bKDumpf1J_ymUwtex3QsqXI6LKWXucf5tqgcg&filename=Rec.3.Genesis.2012.mp4"
+          "downloadUrl": "/api/download?id=1arUcbOVEbrMnKOpAa_E2lo6KvSPDBJ4B&filename=Rec.3.Genesis.2012.mp4"
         },
         {
           "quality": "480P",
