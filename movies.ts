@@ -83,7 +83,7 @@ export const MOVIES_DB: MovieItem[] = [
     posterUrl:
       "https://images-ext-1.discordapp.net/external/gK7EGbB_NSMBABmT83aLJ8c-k-RMLx29hF3Jqy8Udn4/https/i.ibb.co/Jwb1tdMH/gbgtbt.jpg?format=webp&width=621&height=881",
     backdropUrl:
-      "https://images-ext-1.discordapp.net/external/QriMoHjV0a50V8PPL38O7-GH4iQVjx-VKG6sPrgJyvQ/https/i.ibb.co/kC2VcfZ/vvvv.jpg?format=webp",
+      "https://images-ext-1.discordapp.net/external/t4WEltGEO8RtyV9ryZra-2Kr4F8tNYIbH7-fELyll3U/https/i.ibb.co/RGYN81Wb/recggg.jpg?format=webp",
     imdbRating: 5,
     genres: ["Horror", "Thriller", "Action", "Comedy"],
     categories: ["popular-movies", "trending"],
