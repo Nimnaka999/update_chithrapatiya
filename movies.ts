@@ -702,142 +702,69 @@ export const MOVIES_DB: MovieItem[] = [
   },
 },
   
-  
+  //----yes god yes 2019------------------------------
 
-//   //----- Lullaby 2022 -------------------------
-//   {
-//     id: "lullaby_2022",
-//     type: "movie",
-//     title: "Lullaby (2022)",
-//     description:
-//       "After the sudden death of her husband, a woman is left to raise her newborn baby alone. While struggling with grief සහ motherhood, she discovers an ancient lullaby that brings forth a sinister entity.",
-//     sinhalDescription: `සිය සැමියාගේ හදිසි වියෝවෙන් පසු, තම අලුත උපන් බිළිඳා තනිවම හදා වඩා ගැනීමට තරුණ මවකට සිදුවේ. ශෝකය සහ මාතෘත්වයේ වගකීම් අතර සිරවී සිටින ඇයට, පුරාණ නැළවිලි ගීයක් සොයා ගැනීමට ලැබේ. නමුත් ඇය නොදැනුවත්වම එම ගීය ගායනා කිරීමත් සමඟ, භයානක සහ අද්භූත බලවේගයක් ඇගේ පවුල වටා ගොනු වීමට පටන් ගනී.
+ {
+  id: "yes_god_yes_2019",
+  type: "movie",
+  title: "Yes, God, Yes (2019)",
+  description: "(18+) Yes, God, Yes (2019) is a coming-of-age comedy-drama set in the early 2000s that follows Alice, a sheltered Catholic schoolgirl who finds herself plagued by guilt and confusion after a rumor about her sexuality spreads through her community. In an attempt to suppress her burgeoning desires and seek redemption, she attends a religious retreat, only to discover that the adults and peers preaching abstinence are often struggling with their own private hypocrisies. Ultimately, the film offers a humorous and relatable look at the awkward intersection of teenage exploration, religious dogma, and the search for authentic self-identity.",
+  sinhalDescription: "(18+) Yes, God, Yes (2019) චිත්‍රපටය 2000 දශකයේ මුල් භාගයේ පසුබිමක දිවෙන, ආගමික පරිසරයක හැදෙන වැඩෙන "ඇලිස්" නම් යෞවනියකගේ කතාවක් අළලා නිර්මාණය වූ චිත්‍රපටයකි. ඇය තමා තුළ ඇතිවන ස්වාභාවික ලිංගික කුතුහලය සහ ආශාවන් නිසා දැඩි වරදකාරී හැඟීමකින් සහ පීඩනයකින් පෙළෙන අතර, එයින් මිදීමට සහ පව් කමාව ලබා ගැනීමට ඇය ආගමික කඳවුරකට සහභාගී වේ. කෙසේ වෙතත්, එම ස්ථානයේදී ඇයට වැටහෙන්නේ තමන්ට සංයමය ගැන දේශනා කරන වැඩිහිටියන් සහ සෙසු අය පවා තමන්ගේම රහසිගත ගැටලු සහ කුහකකම්වලින් පිරී සිටින බවයි. යෞවන වියේ ගැටුම්, ආගමික දෘෂ්ටිවාද සහ තමන් කවුදැයි හඳුනා ගැනීමේ ක්‍රියාවලිය හාස්‍යජනක ලෙසත්, යථාර්ථවාදී ලෙසත් මෙම චිත්‍රපටය මගින් නිරූපණය කරයි.",
+  posterUrl: "",
+  backdropUrl: "",
+  imdbRating: 6.1,
+  genres: ["Comedy", "Drama", "Romance"],
+  categories: ["popular-movies", "trending"],
+  releaseYear: 2019,
+  language: "English",
+  country: "USA",
+  status: "Released",
+  runtime: "77 min",
+  castIds: [
+    "cast_n_dyer",
+    "cast_t_simons",
+    "cast_w_novogratz",
+    "cast_f_reale",
+    "cast_s_blackwell",
+    "cast_a_boe",
+    "cast_d_champlin",
+    "cast_p_wierling",
+    "cast_a_shrum",
+    "cast_m_lewis",
+    "cast_c_driest",
+    "cast_p_fisher",
+    "cast_b_nesbitt",
+    "cast_j_ward",
+    "cast_p_hullett",
+    "cast_t_johnston",
+    "cast_r_shearer",
+    "cast_g_garcia"
+  ],
+  video: {
+    embedUrl: "https://drive.google.com/file/d/1oaxj_cTJpxKDxIqgLCmjwc8yLkufpOS-/view?usp=sharing",
+    downloadLinks: [
+      {
+        quality: "720P",
+        size: "1.45 GB",
+        language: "English",
+        subtitle: "Sinhala",
+        slug: "Yes-God-Yes-2019-720p",
+        filename: "Yes.God.Yes.2019.720p.mp4",
+        downloadUrl: "/api/download?id=1oaxj_cTJpxKDxIqgLCmjwc8yLkufpOS-&filename=Yes.God.Yes.2019.720p.mp4",
+      },
+      {
+        quality: "480P",
+        size: "300 MB",
+        language: "English",
+        subtitle: "Sinhala",
+        slug: "Yes.God-Yes-2019-480p",
+        filename: "Yes.God.Yes.2019.480p.mp4",
+        downloadUrl: "",
+      },
+    ],
+  },
+},
 
-// තම දරුවා ආරක්ෂා කර ගැනීමට ඇයට හැකි වේවිද? නැතහොත් මෙම අඳුරු ශාපය ඇයව සහ ඇගේ දරුවාව සදහටම අඳුරට ඇද දමාවිද? මනෝවිද්‍යාත්මක භීෂණය සහ පවුලේ බැඳීම් මුසු වූ මෙම චිත්‍රපටය අවසානය දක්වාම ඔබව කුතුහලයෙන් තබනු ඇත.`,
-//     posterUrl:
-//       "https://images-ext-1.discordapp.net/external/bahRYKYXUA7YG6HhX5oKSJefJQZ9spPvhtLL2yJSWl0/https/i.ibb.co/LDFsf55v/MV5-BN2-Zm-OGY2-N2-Ut-ZDcz-ZC00-NWU5-LTk3-MGIt-OWQ2-NWQx-M2-E5-Nzk2-Xk-Ey-Xk-Fqc-Gc-V1-jpg.jpg?format=webp&width=581&height=861",
-//     backdropUrl:
-//       "https://images-ext-1.discordapp.net/external/YnJ6nPgWWw54mQaVbtrnN3FRiLyFdONXbr5UUbcQyHM/https/i.ibb.co/9mbSJbz0/Untitled-1.jpg?format=webp",
-//     imdbRating: 5.3,
-//     genres: ["Horror", "Thriller"],
-//     categories: ["popular-movies"],
-//     releaseYear: 2022,
-//     language: "English",
-//     country: "USA",
-//     status: "Released",
-//     runtime: "87 min",
-//     castIds: [
-//       "cast_lb_01", // Kira Guloien
-//       "cast_lb_02", // Oona Chaplin
-//       "cast_lb_03", // Spencer MacPherson
-//       "cast_lb_04", // Ramón Rodríguez
-//       "cast_lb_05", // Liane Balaban
-//       "cast_lb_06", // Moni Ogunsuyi
-//       "cast_lb_07", // Julie Khaner
-//       "cast_lb_08", // Austin Ball
-//       "cast_lb_09", // Alex Karzis
-//       "cast_lb_10", // Adam Bernett
-//       "cast_lb_11", // Sasha Rajamani
-//       "cast_lb_12", // Hayden Finkelshtain
-//       "cast_lb_13", // Brian McCaig
-//       "cast_lb_14", // Mark Reinhardt
-//       "cast_lb_15", // Brian McCormack
-//     ],
-//     video: {
-//       embedUrl:
-//         "",
-//       downloadLinks: [
-//         {
-//           quality: "480P",
-//           size: "",
-//           language: "English",
-//           subtitle: "Sinhala",
-//           slug: "lullaby-2022-480p",
-//           filename: "lullaby.2022.480p.mp4",
-//           downloadUrl:
-//             "",
-//         },
-//         {
-//           quality: "720P",
-//           size: "",
-//           language: "English",
-//           subtitle: "Sinhala",
-//           slug: "lullaby-2022-720p",
-//           filename: "lullaby.2022.720p.mp4",
-//           downloadUrl:
-//             "",
-//         },
-//       ],
-//     },
-//   },
-
-//   // ── Cobweb (2023) ──────────────────────────
-
-//   {
-//     id: "cobweb_2023",
-//     type: "movie",
-//     title: "Cobweb (2023)",
-//     description:
-//       "Eight-year-old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall, a noise his parents insist is all in his imagination. As Peter's fear intensifies, he suspects that his parents are hiding a terrible, dangerous secret.",
-//     sinhalDescription: `අට හැවිරිදි පීටර්ගේ නිදන කාමරයේ බිත්තිය ඇතුළතින් නිරන්තරයෙන් ඇසෙන අද්භූත තට්ටු කිරීමේ ශබ්දයක් නිසා ඔහු දැඩි බියකට පත්වන අතර, ඔහුගේ දෙමාපියන් පවසන්නේ එය හුදෙක් ඔහුගේ පරිකල්පනයක් පමණක් බවයි.
-
-// කෙසේ වෙතත්, දිනෙන් දින වර්ධනය වන පීටර්ගේ බියත් සමඟ, තම දෙමාපියන් විසින් බිහිසුණු සහ භයානක රහසක් ඉතා රහසිගතව සඟවාගෙන සිටින බව ඔහුට තදින්ම සැක සිතේ.
-
-// සැබවින්ම බිත්ති පිටුපස සැඟවී සිටින්නේ කවුද? කුතුහලය සහ භීෂණය මුසු වූ මෙම සිනමා අත්දැකීම, අවසානය දක්වාම ඔබව දැඩි තැතිගැන්මකට ලක් කරනු නොඅනුමානයි.`,
-//     posterUrl: "https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-//     backdropUrl: "https://images-ext-1.discordapp.net/external/wQfiWu3EaMzTeqs24QHCAWloQ_kzZNJAyRd7fxXc3eU/https/i.ibb.co/MkpqS1vg/bhetrthrt.jpg?format=webp",
-//     imdbRating: 5.9,
-//     genres: ["Horror", "Thriller"],
-//     categories: ["popular-movies"],
-//     releaseYear: 2023,
-//     language: "English",
-//     country: "USA",
-//     status: "Released",
-//     runtime: "88 min",
-//     castIds: [
-//       "cast_l_caplan", // Lizzy Caplan
-//       "cast_a_starr", // Antony Starr
-//       "cast_c_coleman", // Cleopatra Coleman
-//       "cast_w_norman", // Woody Norman
-//       "cast_l_busey", // Luke Busey
-//       "cast_a_dragova", // Aleksandra Dragova
-//       "cast_j_rincon", // Jay Rincon
-//       "cast_a_kottas", // Anton Kottas
-//       "cast_s_sampson", // Steffanie Sampson
-//       "cast_j_mihaylov", // Jivko Mihaylov
-//       "cast_i_nikolov", // Iliyan Nikolov
-//       "cast_a_carra", // Alexander Carra
-//       "cast_v_velikova", // Victoria Velikova
-//       "cast_k_nichols", // Kate Nichols
-//       "cast_l_bay", // Leah-Felicity Bay
-//       "cast_j_robinson", // James Robinson
-//       "cast_o_sussman", // Olivia Sussman
-//       "cast_d_wilson", // Debra Wilson
-//     ],
-//     video: {
-//       embedUrl: "https://drive.google.com/file/d/1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY/view?usp=drive_link",
-//       downloadLinks: [
-//         {
-//           quality: "480P",
-//           size: , "633 MB"
-//           language: "English",
-//           subtitle: "Sinhala",
-//           slug: "cobweb-2023-480p",
-//           filename: "cobweb.2023.480p.mp4",
-//           downloadUrl: "https://github.com/Nimnaka999/movie/releases/download/wc/Cobweb.2023.480p.mp4",
-//         },
-//         {
-//           quality: "720P",
-//           size: "969 MB",
-//           language: "English",
-//           subtitle: "Sinhala",
-//           slug: "cobweb-2023-720p",
-//           filename: "cobweb.2023.720p.mp4",
-//           downloadUrl: "/api/download?id=1-W28s-LMKabu5LyGbjAGxOgseOzG0wkY=Cobweb.2023.480p.mp4",
-//         },
-//       ],
-//     },
-//   },
-
+    //----new movie here------------------------------
 
 ];
