@@ -1423,6 +1423,297 @@
     "character": "Security Guard",
     "country": "Canada",
     "biography": "Brian McCormack is a reliable actor providing a grounded performance in the film."
+  },
+  
+    {
+        "id": "cast_k_urban",
+        "name": "Karl Urban",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjA1MTMwMjMxN15BMl5BanBnXkFtZTgwNjA1MTA1OTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Billy Butcher",
+        "country": "New Zealand",
+        "biography": "Karl Urban is a New Zealand actor famous for his roles as Éomer in The Lord of the Rings, Dr. McCoy in Star Trek, and the iconic Billy Butcher in The Boys."
+    },
+    {
+        "id": "cast_j_quaid",
+        "name": "Jack Quaid",
+        "photo": "https://m.media-amazon.com/images/M/MV5BYjc5MmNjM2UtMDllYy00NjZiLTlkN2ItZDg3YjNhYjRmYmVjXkEyXkFqcGc@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+        "character": "Hughie Campbell",
+        "country": "United States",
+        "biography": "Jack Quaid is an American actor, son of Dennis Quaid and Meg Ryan, best known for playing the protagonist Hughie Campbell in The Boys."
+    },
+    {
+        "id": "cast_a_starr",
+        "name": "Antony Starr",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTQxMDg1Nzc0OV5BMl5BanBnXkFtZTcwODc4NTkyNw@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+        "character": "Homelander",
+        "country": "New Zealand",
+        "biography": "Antony Starr is a New Zealand actor internationally acclaimed for his chilling and powerful portrayal of the antagonist Homelander in The Boys."
+    },
+    {
+        "id": "cast_e_moriarty",
+        "name": "Erin Moriarty",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMmZlNDQ5MzktMWMzOS00NTQ3LWE3ZGEtY2U2MzlkNTA2M2UyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "character": "Annie January / Starlight",
+        "country": "United States",
+        "biography": "Erin Moriarty is an American actress known for her role as Starlight, a superheroine caught between her ideals and the corruption of The Seven."
+    },
+    {
+        "id": "cast_j_usher",
+        "name": "Jessie T. Usher",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNmI5YTI3NTQtZmUzMS00OGY4LWFmYWUtZjNhZDdiMzUwOThjXkEyXkFqcGc@._V1_PT-1.0_CR528,21,437,655_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "A-Train",
+        "country": "United States",
+        "biography": "Jessie T. Usher is an American actor known for playing the speedster superhero A-Train, a key member of The Seven."
+    },
+    {
+        "id": "cast_l_alonso",
+        "name": "Laz Alonso",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDk0ZGNiYTQtMWIzZS00MTJhLWFiOWItZTJlZDMyMjQ0YWFmXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "character": "Mother's Milk (M.M.)",
+        "country": "United States",
+        "biography": "Laz Alonso is an American actor known for his role as the strategist Mother's Milk, a founding member of The Boys."
+    },
+    {
+        "id": "cast_c_crawford",
+        "name": "Chace Crawford",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjM4Nzc3Njc0N15BMl5BanBnXkFtZTgwMjE0MDEzMTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "The Deep",
+        "country": "United States",
+        "biography": "Chace Crawford is an American actor, previously famous for Gossip Girl, who portrays the aquatic superhero The Deep in The Boys."
+    },
+    {
+        "id": "cast_t_capone",
+        "name": "Tomer Capone",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOWQwZTgxNWUtMjA0MS00ZmJkLTkxZjMtNmNiMmJmMjgyZGFlXkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "character": "Frenchie",
+        "country": "Israel",
+        "biography": "Tomer Capone is an Israeli actor known for his role as the expert weapons and chemical specialist Frenchie in The Boys."
+    },
+    {
+        "id": "cast_k_fukuhara",
+        "name": "Karen Fukuhara",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMGIxNTBmZTMtYjZmNC00MTgxLTkxYzktOTI4NmU0ZDQ4NDIxXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+        "character": "Kimiko Miyashiro",
+        "country": "United States",
+        "biography": "Karen Fukuhara is an American actress known for her role as Kimiko, the silent but lethal super-powered member of The Boys."
+    },
+    {
+        "id": "cast_n_mitchell",
+        "name": "Nathan Mitchell",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMDEyMDBkNmQtNjhhYy00NmUzLThkNjUtMjM2YzE2MjZiZDAwXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Black Noir",
+        "country": "Canada",
+        "biography": "Nathan Mitchell is a Canadian actor who portrays the mysterious and silent assassin Black Noir, a member of The Seven."
+    },
+    {
+        "id": "cast_c_minifie",
+        "name": "Colby Minifie",
+        "photo": "https://m.media-amazon.com/images/M/MV5BZjZlMTlkNjgtMDk4ZC00OGQyLWJkMTctMjE1NjVmNTNlYWMxXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Ashley Barrett",
+        "country": "United States",
+        "biography": "Colby Minifie is an American actress who plays Ashley Barrett, the high-stress public relations executive at Vought International."
+    },
+    {
+        "id": "cast_d_mcelligott",
+        "name": "Dominique McElligott",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMGIxNDE1MTktYWQ5OS00NmEyLThmMTAtOWNjOGExZGVlNzg0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "character": "Queen Maeve",
+        "country": "Ireland",
+        "biography": "Dominique McElligott is an Irish actress known for her role as the disillusioned superheroine Queen Maeve in The Boys."
+    },
+    {
+        "id": "cast_c_doumit",
+        "name": "Claudia Doumit",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDE3ZDE1MjYtMGY2Ni00NjM3LWI5NjAtYWQwMjEzMTI5ZDZkXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Victoria Neuman",
+        "country": "Australia",
+        "biography": "Claudia Doumit is an Australian actress who portrays the cunning politician and secret supe, Victoria Neuman."
+    },
+    {
+        "id": "cast_c_crovetti",
+        "name": "Cameron Crovetti",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNDU3MjhmOGItMGRiNy00M2JhLWI0ZGItNDdhYTk1MjMxMmE3XkEyXkFqcGc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+        "character": "Ryan Butcher",
+        "country": "United States",
+        "biography": "Cameron Crovetti is an American actor known for his role as Ryan Butcher, the son of Homelander and Becca Butcher."
+    },
+    {
+        "id": "cast_n_elliott",
+        "name": "Nneka Elliott",
+        "photo": "",
+        "character": "News Anchor",
+        "country": "Canada",
+        "biography": "Nneka Elliott is a Canadian actress and television personality who appears as a recurring news reporter covering events in the Vought universe."
+    },
+    {
+        "id": "cast_s_heyward",
+        "name": "Susan Heyward",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOGY3Zjk2N2UtNjRjYS00MjU4LTg2M2MtZGU1YTY0ZDAxMTY3XkEyXkFqcGc@._V1_CR116,0,1599,2399_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Sister Sage",
+        "country": "United States",
+        "biography": "Susan Heyward is an American actress known for her role as Sister Sage, a supe with hyper-intelligence introduced in later seasons."
+    },
+    {
+        "id": "cast_v_curry",
+        "name": "Valorie Curry",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTM4Zjc0MzMtODAxZS00M2FjLWI4NDItMWM1MzE0ZTNjZTdhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+        "character": "Firecracker",
+        "country": "United States",
+        "biography": "Valorie Curry is an American actress who plays Firecracker, a supe and influential political commentator in the series."
+    },
+    {
+        "id": "cast_j_ackles",
+        "name": "Jensen Ackles",
+        "photo": "https://m.media-amazon.com/images/M/MV5BNTFmZDA4MjgtNGFlOC00OTI0LWI5YzMtMjM1NzM2YWQ1OTc3XkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+        "character": "Soldier Boy",
+        "country": "United States",
+        "biography": "Jensen Ackles is an American actor best known for Supernatural, who joined The Boys to play the original legendary superhero, Soldier Boy."
+    },
+  [
+  {
+    "id": "cast_blowie_1",
+    "name": "Bella Thorne",
+    "photo": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSfg3usFeaH96t73YpE-rxhjB9IONzrEJrVuPhBUNsvlp7c-K9mcnBFD9cDZLVE6qg5yc_jDGyMiM7ix_Y",
+    "character": "Main Lead",
+    "country": "United States",
+    "biography": "Bella Thorne is an American actress and singer who gained recognition for her role as CeCe Jones on the Disney Channel series Shake It Up."
+  },
+  {
+    "id": "cast_blowie_2",
+    "name": "Jackson Pace",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTUzNzAwZGQtNjA0Mi00M2JmLWI5NjQtYzIxZTdmMDc0MjY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Jackson Pace is an American actor known for his work in television dramas and independent cinema."
+  },
+  {
+    "id": "cast_blowie_3",
+    "name": "Jane Adams",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTM1NDg5NzQ3MF5BMl5BanBnXkFtZTcwNTUyMzcyOA@@._V1_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Jane Adams is an American actress known for her versatile performances in both comedic and dramatic roles."
+  },
+  {
+    "id": "cast_blowie_4",
+    "name": "Alexandra Daddario",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTY3Nzg2NjA1OF5BMl5BanBnXkFtZTgwMjY5NTU1MzI@._V1_FMjpg_UX1000_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Alexandra Daddario is a prominent American actress known for her roles in the Percy Jackson series, San Andreas, and Baywatch."
+  },
+  {
+    "id": "cast_blowie_5",
+    "name": "Ryan Phillippe",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTk0MzEwMzEzNV5BMl5BanBnXkFtZTgwNDMzMTc0NDE@._V1_FMjpg_UX1000_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Ryan Phillippe is an American actor who achieved fame in the late 1990s with films such as I Know What You Did Last Summer."
+  },
+  {
+    "id": "cast_blowie_6",
+    "name": "David Arquette",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjEzODYyNjg3NV5BMl5BanBnXkFtZTcwMzYwOTgyNg@@._V1_FMjpg_UX1000_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "David Arquette is an American actor and filmmaker, known for his roles in the Scream franchise."
+  },
+  {
+    "id": "cast_blowie_7",
+    "name": "Molly Shannon",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNDk3MDMyMDQ5MV5BMl5BanBnXkFtZTcwNTc5Mzk0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Molly Shannon is an American actress and comedian, widely recognized for her work on Saturday Night Live."
+  },
+    
+  {
+    "id": "cast_m_johnston",
+    "name": "Michael Johnston",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzgzZDRlZDItNjRhZS00YzEyLWE2NzQtZDExMTliY2Q1ZjNlXkEyXkFqcGc@._V1_CR27,152,1214,1821_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Baron 'Bear' Bailey",
+    "country": "United States",
+    "biography": "American actor known for his work in projects such as 'Teen Wolf' and 'Slash'. In 'Obsession' (2025), he plays the character Baron 'Bear' Bailey."
+  },
+  {
+    "id": "cast_i_navarrette",
+    "name": "Inde Navarrette",
+    "photo": "https://m.media-amazon.com/images/M/MV5BODFlMTZmODItNzExZi00ZWJiLTgyMTUtOGFlY2FiZTJiZTExXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Nikki Freeman",
+    "country": "United States",
+    "biography": "American actress recognized for her roles in 'Superman & Lois' and '13 Reasons Why'. In 'Obsession' (2025), she plays the character Nikki Freeman."
+  },
+  {
+    "id": "cast_c_tomlinson",
+    "name": "Cooper Tomlinson",
+    "photo": "https://m.media-amazon.com/images/M/MV5BYTY5ZDkwNTktNDgxOS00NmNiLTkzZGUtZjc2MDRkMDI2NGY4XkEyXkFqcGc@._V1_CR909,373,3333,5000_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Ian",
+    "country": "United States",
+    "biography": "Actor appearing as Ian in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_m_lawless",
+    "name": "Megan Lawless",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzkzZDA2N2YtNmJmMi00MTY3LWI3MjYtNTI0NTkwYTVkMjRmXkEyXkFqcGc@._V1_CR762,168,1754,2631_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Sarah Harper",
+    "country": "United States",
+    "biography": "Actress appearing as Sarah Harper in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_a_richter",
+    "name": "Andy Richter",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMzMzMmRhYjktYzJjZi00YzBkLWI5YzMtZTUyNGE0ZTBhZjg4XkEyXkFqcGc@._V1_CR509,60,345,518_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "American comedian and actor, best known for his work with Conan O'Brien, appearing in a supporting role in 'Obsession' (2025)."
+  },
+  {
+    "id": "cast_h_fitzgerald",
+    "name": "Haley Fitzgerald",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzczNjE3OWUtMzgzZi00MTJiLWJiYTItMWI1ZTRiMzlkNGU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "Canada",
+    "biography": "Canadian actress appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_d_toonder",
+    "name": "Darin Toonder",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTc2MDcxNjMtNTE1Mi00OWVmLThhYWYtMzJiMjFkNjRlZWU2XkEyXkFqcGc@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Actor appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_a_pavone",
+    "name": "Anthony Pavone",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTAzZDI1N2EtMDIwMy00NDQwLWJlZWEtNzVlZjE2Yjk3MWE4XkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Actor appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_a_casabianca",
+    "name": "Anthony Casabianca",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMDdmMGRiNmEtM2QyZS00NzY2LTkwYTUtYjJlOWM2NGYzMWU4XkEyXkFqcGc@._V1_CR1,1,1023,1534_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Actor appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_c_breen",
+    "name": "Chloe Breen",
+    "photo": "https://m.media-amazon.com/images/M/MV5BODNiZjdiODYtNDlhNC00NTNjLTlmYjYtNWQwNDZmYjg0OTY3XkEyXkFqcGc@._V1_QL75_UY140_CR7,0,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Actress appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  {
+    "id": "cast_m_kelner",
+    "name": "Malcolm Kelner",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMzE0NDIyN2MtNDUwNy00MWU1LWEzZGUtM2E5NTVkNmFiNTEwXkEyXkFqcGc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+    "character": "Supporting Role",
+    "country": "United States",
+    "biography": "Actor appearing in a supporting role in the 2025 film 'Obsession'."
   }
 ]
   
