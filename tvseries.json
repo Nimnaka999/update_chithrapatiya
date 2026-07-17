@@ -608,5 +608,228 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "id": "tv_the_boys",
+  "type": "tv",
+  "title": "The Boys (2026)",
+  "description": "brutal endgame where the conflict between the supes and humanity reaches a point of no return. Following the events of the previous season, Homelander has consolidated unprecedented power, effectively exerting control over the U.S. government and shaping public perception to solidify his status as an untouchable, god-like figure. Meanwhile, a fragmented and desperate group of the \"Boys\"—including Billy Butcher, who is driven by a ruthless determination to eradicate all supes using a lethal virus—must navigate an increasingly fascist society where their allies are being rounded up into internment camps. The season leans into heavy themes of rising political extremism, the fragility of hope, and the irreversible consequences of the characters' actions, as they race toward a final, catastrophic confrontation that threatens to reshape their world entirely.",
+  "sinhalDescription": "සුපිරි බලවතුන් (Supes) සහ සාමාන්‍ය මිනිසුන් අතර පවතින ගැටුම ඉතාම තීව්‍ර සහ තීරණාත්මක අවසානයකට රැගෙන යයි. පෙර වාරවල සිදු වූ සිදුවීම්වලින් අනතුරුව, හෝම්ලෑන්ඩර් (Homelander) විසින් ඇමරිකානු රජය සහ මහජන මතය තමන්ට පක්ෂපාතීව හසුරුවමින්, තමා බලවත්ම සහ කිසිවෙකුට අභියෝග කළ නොහැකි දෙවියෙකු වැනි චරිතයක් බව තහවුරු කර ගනී. මේ අතර, බිලී බුචර් (Billy Butcher) ඇතුළු \"The Boys\" කණ්ඩායම, සියලුම සුපිරි බලවතුන් විනාශ කිරීමේ අරමුණින් ඉතා භයානක වෛරසයක් භාවිතා කරමින්, දිනෙන් දින ෆැසිස්ට්වාදී පාලනයක් දෙසට ඇදෙන සමාජයක තමන්ගේ මිතුරන් බේරා ගැනීමට අසීරු සටනක නිරත වේ. දේශපාලන අන්තවාදය, බලාපොරොත්තුවේ බිඳවැටීම සහ චරිතවල තීරණ නිසා ඇති වන ආපසු හැරවිය නොහැකි ප්‍රතිඵල වටා ගෙතුණු මෙම කතා මාලාව, මුළු ලෝකයම උඩු යටිකුරු කළ හැකි අවසාන සහ විනාශකාරී ගැටුමකින් අවසන් වේ.",
+  "posterUrl": "https://images-ext-1.discordapp.net/external/u1abgNyeDW9VQTl99gxbYIG9XRSgBb4oBRwuzZQCvHU/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/Post/blob/main/htrhrthrt.jpg?format=webp&width=574&height=861",
+  "backdropUrl": "https://images-ext-1.discordapp.net/external/EK2ZzAMum89kHPqWabEHLdTLI_IPDTDt9VOuL1WuCJk/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/Post/blob/main/frbbtrbe.jpg?format=webp",
+  "imdbRating": 8.7,
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "categories": [
+    "latest-tv",
+    "trending"
+  ],
+  "releaseYear": 2026,
+  "language": "English",
+  "country": "USA",
+  "status": "Ended",
+  "totalSeasons": 1,
+  "castIds": [
+    "cast_k_urban",
+    "cast_j_quaid",
+    "cast_a_starr",
+    "cast_e_moriarty",
+    "cast_j_usher",
+    "cast_l_alonso",
+    "cast_c_crawford",
+    "cast_t_capone",
+    "cast_k_fukuhara",
+    "cast_n_mitchell",
+    "cast_c_minifie",
+    "cast_d_mcelligott",
+    "cast_c_doumit",
+    "cast_c_crovetti",
+    "cast_n_elliott",
+    "cast_s_heyward",
+    "cast_v_curry",
+    "cast_j_ackles"
+  ],
+  "trailerUrl": "",
+  "seasons": [
+    {
+      "seasonNumber": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Episode 1",
+          "airDate": "2026-04-01",
+          "runtime": "60 min",
+          "thumbnailUrl": "",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1cCLnG8vl1cj6keREBNxnJpI_LwdBBJj4/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1.03 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E01",
+                "filename": "The.Boys.S05E01.mp4",
+                "downloadUrl": "/api/download?id=1cCLnG8vl1cj6keREBNxnJpI_LwdBBJj4&view?usp=The.Boys.S05E01.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Episode 2",
+          "airDate": "2026-04-08",
+          "runtime": "60 min",
+          "thumbnailUrl": "",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/16VtskAiTnrshHKWtZyTMZA9mCPBgoZx4/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1.01 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E02",
+                "filename": "The.Boys.S05E02.mp4",
+                "downloadUrl": "/api/download?id=16VtskAiTnrshHKWtZyTMZA9mCPBgoZx4&view?usp=The.Boys.S05E02.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 3,
+          "title": "Episode 3",
+          "airDate": "2026-04-15",
+          "runtime": "60 min",
+          "thumbnailUrl": "",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1OGN_pXqR6v4Pq5GW-kLSIRrL8laJUW23/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E03",
+                "filename": "The.Boys.S05E03.mp4",
+                "downloadUrl": "/api/download?id=1OGN_pXqR6v4Pq5GW-kLSIRrL8laJUW23&view?usp=The.Boys.S05E03.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 4,
+          "title": "Episode 4",
+          "airDate": "2026-04-22",
+          "runtime": "60 min",
+          "thumbnailUrl": "",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1sBQ3bqNqqr6MMPCV077_iTJB2i7j3G_n/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "935 MB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E04",
+                "filename": "The.Boys.S05E04.mp4",
+                "downloadUrl": "/api/download?id=1sBQ3bqNqqr6MMPCV077_iTJB2i7j3G_n&view?usp=The.Boys.S05E04.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 5,
+          "title": "One-Shots",
+          "airDate": "2026-04-29",
+          "runtime": "57 min",
+          "thumbnailUrl": "https://images-ext-1.discordapp.net/external/XqJJmwYNeb2CGNw6Eu5pnPArzRpFTrgRVT07cTkwEFo/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/5.PNG?format=webp&quality=lossless",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/16OpDG7uu2jG3Md-0X99nmlnRwSBHufYB/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1.15 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E05",
+                "filename": "The.Boys.S05E05.mp4",
+                "downloadUrl": "/api/download?id=16OpDG7uu2jG3Md-0X99nmlnRwSBHufYB/view?usp=The.Boys.S05E05.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 6,
+          "title": "Though the Heavens Fall",
+          "airDate": "2026-05-06",
+          "runtime": "64 min",
+          "thumbnailUrl": "https://images-ext-1.discordapp.net/external/TWFICUd2muRX6A8Rl4HBFhfLTauJJVjOE156Xikb-rw/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/6.PNG?format=webp&quality=lossless",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1u8aF-aI4E4d_i1fXwu9bOuP0J47Mgke_/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "942 MB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E06",
+                "filename": "The.Boys.S05E06.mp4",
+                "downloadUrl": "/api/download?id=1u8aF-aI4E4d_i1fXwu9bOuP0J47Mgke_&view?usp=The.Boys.S05E06.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 7,
+          "title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+          "airDate": "2026-05-13",
+          "runtime": "61 min",
+          "thumbnailUrl": "https://images-ext-1.discordapp.net/external/hq-X8bb6KJIgs4XVmTZopgz2eccca6muVuT8pDhfNgA/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/7.PNG?format=webp&quality=lossless",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1Jx_B3eBRkZkXdZ4xMGeNbbv-5WBBbmn1/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1.13 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E07",
+                "filename": "The.Boys.S05E07.mp4",
+                "downloadUrl": "/api/download?id=1Jx_B3eBRkZkXdZ4xMGeNbbv-5WBBbmn1&view?usp=The.Boys.S05E07.mp4"
+              }
+            ]
+          }
+        },
+        {
+          "episodeNumber": 8,
+          "title": "Blood and Bone",
+          "airDate": "2026-05-20",
+          "runtime": "72 min",
+          "thumbnailUrl": "https://images-ext-1.discordapp.net/external/7zT0NfT0p1QiiD1mtFY4F8L8BPG-XiF_MhJiID-ZKpo/%3Fraw%3Dtrue/https/github.com/heshanrusiru792/gg/blob/main/8.PNG?format=webp&quality=lossless",
+          "video": {
+            "embedUrl": "https://drive.google.com/file/d/1LbVOExkQQ_x9WExZeCkWZ9PUXO_yLjtj/view?usp=sharing",
+            "downloadLinks": [
+              {
+                "quality": "720P",
+                "size": "1.84 GB",
+                "language": "English",
+                "subtitle": "Sinhala",
+                "slug": "The_Boys_S05E08",
+                "filename": "The.Boys.S05E08.mp4",
+                "downloadUrl": "/api/download?id=1LbVOExkQQ_x9WExZeCkWZ9PUXO_yLjtj&view?usp=The.Boys.S05E08.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
 ]
