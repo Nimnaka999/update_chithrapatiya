@@ -1714,7 +1714,106 @@
     "character": "Supporting Role",
     "country": "United States",
     "biography": "Actor appearing in a supporting role in the 2025 film 'Obsession'."
+  },
+  
+  {
+    "id": "cast_maika_monroe",
+    "name": "Maika Monroe",
+    "photo": "https://images.mubicdn.net/images/cast_member/373759/cache-109934-1428974604/image-w856.jpg",
+    "character": "Agent Lee Harker",
+    "country": "USA",
+    "biography": "Maika Monroe is an American actress known for her leading roles in horror and thriller films including It Follows, The Guest, and Watcher."
+  },
+  {
+    "id": "cast_nicolas_cage",
+    "name": "Nicolas Cage",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjUxMjE4MTQxMF5BMl5BanBnXkFtZTcwNzc2MDM1NA@@._V1_FMjpg_UX1000_.jpg",
+    "character": "Longlegs",
+    "country": "USA",
+    "biography": "Nicolas Cage is an Academy Award-winning American actor known for his expansive career in action, drama, and independent cinema."
+  },
+  {
+    "id": "cast_blair_underwood",
+    "name": "Blair Underwood",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAGgMKlmfrNV1K8xYL0rA317EAjd4VqWKa4_yQ-7cxLY-3Kv7ckLiRhFo&s=10",
+    "character": "Agent Carter",
+    "country": "USA",
+    "biography": "Blair Underwood is an American actor who has appeared in numerous television series, stage productions, and feature films."
+  },
+  {
+    "id": "cast_alicia_witt",
+    "name": "Alicia Witt",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Alicia_Witt_2014.jpg/960px-Alicia_Witt_2014.jpg",
+    "character": "Ruth Harker",
+    "country": "USA",
+    "biography": "Alicia Witt is an American actress, singer-songwriter, and pianist who began her career as a child actress in Dune."
+  },
+  {
+    "id": "cast_michelle_choi_lee",
+    "name": "Michelle Choi-Lee",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZbBBenzdf6jFPulQYU65mcvyuQA97wBD6m4x5_GYLaU1G1-K3f0baj0&s=10",
+    "character": "Agent Browning",
+    "country": "Canada",
+    "biography": "Michelle Choi-Lee is an actress known for her roles in film and television productions such as Virgin River, Joy Ride, and Longlegs."
+  },
+  {
+    "id": "cast_dakota_daulby",
+    "name": "Dakota Daulby",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNWMzZjYwNTctYzgxNi00MjUxLThlYTgtMDRhMTJlYTI2ZTU5XkEyXkFqcGc@._V1_.jpg",
+    "character": "Agent Fisk",
+    "country": "Canada",
+    "biography": "Dakota Daulby is a Canadian actor and filmmaker known for his performances in independent films and television series."
+  },
+  {
+    "id": "cast_lauren_acala",
+    "name": "Lauren Acala",
+    "photo": "https://images.mubicdn.net/images/cast_member/1177306/cache-983480-1720920444/image-w856.jpg",
+    "character": "Young Lee Harker",
+    "country": "Canada",
+    "biography": "Lauren Acala is a young Canadian actress who portrayed the younger version of Agent Lee Harker in Longlegs."
+  },
+  {
+    "id": "cast_kiernan_shipka",
+    "name": "Kiernan Shipka",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kiernan_Shipka_in_2018_-_1.png/250px-Kiernan_Shipka_in_2018_-_1.png",
+    "character": "Carrie Anne Camera",
+    "country": "USA",
+    "biography": "Kiernan Shipka is an American actress known for her roles as Sally Draper in Mad Men and Sabrina Spellman in Chilling Adventures of Sabrina."
+  },
+  {
+    "id": "cast_maila_hosie",
+    "name": "Maila Hosie",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBnt2_qR_7d83n9Im-lxzVzfbMO9vZ7l9JYQ_ECVWjV3WcLlI0JFKbk8M&s=10",
+    "character": "Young Carrie Anne Camera",
+    "country": "Canada",
+    "biography": "Maila Hosie is a child actress who appeared as Young Carrie Anne Camera in the 2024 horror film Longlegs."
+  },
+  {
+    "id": "cast_jason_william_day",
+    "name": "Jason William Day",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHUmi_vxlUF09PqV_z57WQwiUi0YIq4qE2we16ZurqXSeh1quvofLG4rYW&s=10",
+    "character": "Father Camera",
+    "country": "Canada",
+    "biography": "Jason William Day is an actor and stunt performer featured in various action and thriller film productions."
+  },
+  {
+    "id": "cast_lisa_chandler",
+    "name": "Lisa Chandler",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFJ0hKIrQA0ndY2X-EdIYPWV8uRcId23IeWNVvESLMw&s=10",
+    "character": "Mother Camera",
+    "country": "Canada",
+    "biography": "Lisa Chandler is a Canadian actress and stunt performer known for her work across film and television."
+  },
+  {
+    "id": "cast_ava_kelders",
+    "name": "Ava Kelders",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf35cLJlYHZAvwV2Bh18x9UmuUw6oenKl2wHrCIRQ0ZQ55AB0WPj80pLY&s=10",
+    "character": "Ruby Carter",
+    "country": "Canada",
+    "biography": "Ava Kelders is a young actress known for playing Ruby Carter in the film Longlegs."
   }
+
+  
 ]
   
 
