@@ -931,5 +931,65 @@
         }
       ]
     }
+  },
+   {
+    "id": "Longlegs_2024",
+    "type": "movie",
+    "title": "Longlegs (2024)",
+    "description": "Longlegs is a 2024 American psychological horror-thriller written and directed by Osgood Perkins. Blending procedural crime investigation with unsettling occult horror, the film received widespread acclaim for its oppressive atmosphere, dread-inducing sound design, and chilling central performances.",
+    "sinhalDescription": "Longlegs කියන්නේ 2024 වසරේ නිකුත් වුණු, ලොව පුරා විශාල අවධානයක් සහ ප්‍රශංසාවක් දිනාගත් Psychological Horror / Occult Thriller (මනෝවිද්‍යාත්මක භීෂණ) ගණයට අයත් ඇමරිකානු චිත්‍රපටයක්. මෙය අධ්‍යක්ෂණය කළේ Osgood Perkins විසිනි.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/yZHDyFfxj_ElOhRv6gZibcuyilSrl3Fuq0-ek9pLm5s/https/i.ibb.co/przbGJfm/Untitled-1.jpg?format=webp",
+    "imdbRating": 6.5,
+    "genres": [
+   "Horror", 
+   "Thriller"
+    ],
+    "categories": [
+   "popular-movies", 
+   "top-rated"
+    ],
+    "releaseYear": 2024,
+    "language": "English",
+    "country": "USA",
+    "status": "Released",
+    "runtime": "100 min",
+   "castIds": [
+  "cast_maika_monroe",
+  "cast_nicolas_cage",
+  "cast_blair_underwood",
+  "cast_alicia_witt",
+  "cast_michelle_choi_lee",
+  "cast_dakota_daulby",
+  "cast_lauren_acala",
+  "cast_kiernan_shipka",
+  "cast_maila_hosie",
+  "cast_jason_william_day",
+  "cast_lisa_chandler",
+  "cast_ava_kelders"
+],
+    "video": {
+      "embedUrl": "https://drive.google.com/file/d/18ebByogTDDN7_kbNX67vpsuPQbQMlGHs/view?usp=sharing",
+      "downloadLinks": [
+        {
+         "quality": "720P",
+        "size": "1 GB",
+        "language": "English",
+        "subtitle": "Sinhala",
+        "slug": "Longlegs-2024-720p",
+        "filename": "Longlegs 2024 720p.mp4",
+        "downloadUrl": "/api/download?id=18ebByogTDDN7_kbNX67vpsuPQbQMlGHs&filename=Longlegs 2024 720p.mp4"
+        },
+        {
+           "quality": "480P",
+        "size": "399 MB",
+        "language": "English",
+        "subtitle": "Sinhala",
+        "slug": "Longlegs-2024-480P",
+        "filename": "Longlegs.2024.480P.mp4",
+        "downloadUrl": "https://github.com/heshanrusiru792/movies/releases/download/moviehere/Longlegs.2024.480P.mp4"
+        }
+      ]
+    }
   }
 ]
