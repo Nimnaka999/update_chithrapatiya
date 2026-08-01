@@ -1811,6 +1811,201 @@
     "character": "Ruby Carter",
     "country": "Canada",
     "biography": "Ava Kelders is a young actress known for playing Ruby Carter in the film Longlegs."
+  },
+  
+  {
+    "id": "cast_chiwetel_ejiofor",
+    "name": "Chiwetel Ejiofor",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9WM-w76ekxvx_fcolR8GNOGiNHZqsQWL2CG-1QneSw&s",
+    "character": "Clark",
+    "country": "United Kingdom",
+    "biography": "Chiwetel Ejiofor is an English actor known for his powerful performances in films like '12 Years a Slave' and 'Doctor Strange', starring as a furniture store owner in Backrooms (2026)."
+  },
+  {
+    "id": "cast_renate_reinsve",
+    "name": "Renate Reinsve",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZDliODgyNzctZjE3ZC00NDA1LWFhYTItZWNlMTcwMzc4MjFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Mary",
+    "country": "Norway",
+    "biography": "Renate Reinsve is a Norwegian actress internationally acclaimed for her role in 'The Worst Person in the World', starring as a therapist in Backrooms (2026)."
+  },
+  {
+    "id": "cast_mark_duplass",
+    "name": "Mark Duplass",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZTNlZTI2MzktODU0NS00ZDBhLTg0YTEtNWUzMzA1ZTQzMmM3XkEyXkFqcGc@._V1_.jpg",
+    "character": "Phil",
+    "country": "United States",
+    "biography": "Mark Duplass is an American actor, filmmaker, and musician recognized for his roles in independent cinema and television series like 'The Morning Show'."
+  },
+  {
+    "id": "cast_finn_bennett",
+    "name": "Finn Bennett",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrr4FI7X2PPf0zbVUItY-z7SG6nhTjHBxDeibFb02xMWBwxU-vCRzrZdS&s=10",
+    "character": "Bobby",
+    "country": "United Kingdom",
+    "biography": "Finn Bennett is a British actor known for his breakout role in 'True Detective: Night Country' and his performance in Backrooms (2026)."
+  },
+  {
+    "id": "cast_lukita_maxwell",
+    "name": "Lukita Maxwell",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVKZ_LM9PP_GyxPnxjmmuTfC2KxqeoZ6MrKBUwheCrmkFuBUsy8Wh7BiSC&s=10",
+    "character": "Kat",
+    "country": "United States",
+    "biography": "Lukita Maxwell is an actress known for her work in television series such as 'Shrinking' and 'Generation'."
+  },
+  {
+    "id": "cast_avan_jogia",
+    "name": "Avan Jogia",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzRmMjZhYmItZjZkMi00ZGY0LWI0ZGEtMTZjYjhjMTM3Yjc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Naren Warne",
+    "country": "Canada",
+    "biography": "Avan Jogia is a Canadian actor and musician recognized for his roles in 'Victorious' and 'Zombieland: Double Tap'."
+  },
+  {
+    "id": "cast_robert_bobroczkyi",
+    "name": "Robert Bobroczkyi",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMmVhYmU5NDgtMWI0Ny00MzA0LTk4MmMtNDEzMDI3MzMxYjFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Pirate Clark",
+    "country": "Romania",
+    "biography": "Robert Bobroczkyi is a former basketball player and actor who brings a striking physical presence to creature roles."
+  },
+  {
+    "id": "cast_krista_kosonen",
+    "name": "Krista Kosonen",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNTJiM2QzMTMtM2RmNC00YmM0LWI1NWYtN2YwYzgzODM5OGFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Nora",
+    "country": "Finland",
+    "biography": "Krista Kosonen is an acclaimed Finnish actress known for her performances in film and television productions like 'Blade Runner 2049'."
+  },
+
+ {
+    "id": "cast_jacob_scipio",
+    "name": "Jacob Scipio",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZmRmYzJlYzktOTQxNS00M2U2LWJhMzYtOTdkZGVjMjIxOGMxXkEyXkFqcGc@._V1_.jpg",
+    "character": "Tyler Genocchio",
+    "country": "United Kingdom",
+    "biography": "Jacob Scipio is a British actor known for his roles in 'Bad Boys for Life' and 'The Outpost', starring as Tyler in Passenger (2026)."
+  },
+  {
+    "id": "cast_lou_llobell",
+    "name": "Lou Llobell",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMGRlM2JkMGQtYWVkZi00NTNmLWJkNjktNThhMDFkMWM0ZGFlXkEyXkFqcGc@._V1_CR906,194,2660,3990_FMjpg_UX1000_.jpg",
+    "character": "Maddie Brecker",
+    "country": "Spain / Zimbabwe",
+    "biography": "Lou Llobell is an actress best known for her starring role as Gaal Dornick in the sci-fi series 'Foundation', playing Maddie in Passenger (2026)."
+  },
+  {
+    "id": "cast_melissa_leo",
+    "name": "Melissa Leo",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTc3MDAxOTkyOF5BMl5BanBnXkFtZTcwOTg1MDIzNA@@._V1_FMjpg_UX1000_.jpg",
+    "character": "Diana Larson",
+    "country": "United States",
+    "biography": "Melissa Leo is an acclaimed American actress who won an Academy Award for her performance in 'The Fighter', starring as Diana in Passenger (2026)."
+  },
+  {
+    "id": "cast_joseph_lopez",
+    "name": "Joseph Lopez",
+    "photo": "https://m.media-amazon.com/images/M/MV5BM2U3Zjc1ZTgtMmYyMC00Zjc1LTlkZmItZjhkODA0YjczMDYyXkEyXkFqcGc@._V1_.jpg",
+    "character": "The Passenger",
+    "country": "United States",
+    "biography": "Joseph Lopez is an actor and performer who portrays the terrifying demonic entity known as the Passenger in Passenger (2026)."
+  },
+  {
+    "id": "cast_miles_fowler",
+    "name": "Miles Fowler",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZDIzYTdlMTEtYmVkZi00ZGEyLTlmN2MtNzI4NjBlMDA1MzFmXkEyXkFqcGc@._V1_.jpg",
+    "character": "Lucas Tedesco",
+    "country": "United States",
+    "biography": "Miles Fowler is an American actor recognized for his work in television and film projects such as 'The Last Shift', appearing as Lucas in Passenger (2026)."
+  },
+  {
+    "id": "cast_alan_trong",
+    "name": "Alan Trong",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMmI5Y2JhOGItM2JhNC00YjY4LTg4MzktMzk1ZjE4YzMyNTY3XkEyXkFqcGc@._V1_.jpg",
+    "character": "Daniel",
+    "country": "United States",
+    "biography": "Alan Trong is an actor known for his roles in 'The Tomorrow War' and 'Pacific Rim: Uprising', playing Daniel in Passenger (2026)."
+  },
+  {
+    "id": "cast_tony_doupe",
+    "name": "Tony Doupe",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMWI2NjNmYzItZWQyMS00Nzg1LThjYTgtZmIyZmE1ZDFhYmYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "character": "Local Resident",
+    "country": "United States",
+    "biography": "Tony Doupe is a seasoned character actor known for his numerous appearances in Pacific Northwest-filmed independent and major motion pictures."
+  },
+  {
+    "id": "cast_bonni_dichone",
+    "name": "Bonni Dichone",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNDhjODYwYzgtODM2NC00NGMxLTgzNjctZDY3NTA2YTY5ZTEwXkEyXkFqcGc@._V1_.jpg",
+    "character": "Campground Traveler",
+    "country": "United States",
+    "biography": "Bonni Dichone is an American actress contributing to various film and streaming productions."
+  },
+
+{
+    "id": "cast_adam_scott",
+    "name": "Adam Scott",
+    "photo": "https://m.media-amazon.com/images/M/MV5BZWVhOGE3NjYtZDlmMC00NTdhLTkzZmMtMjBlOGRmYWE0MGY5XkEyXkFqcGc@._V1_CR198,0,1375,2063_FMjpg_UX1000_.jpg",
+    "character": "Ohm Bauman",
+    "country": "United States",
+    "biography": "Adam Scott is an American actor, comedian, and producer best known for his roles in 'Severance', 'Parks and Recreation', and starring as author Ohm Bauman in Hokum (2026)."
+  },
+  {
+    "id": "cast_peter_coonan",
+    "name": "Peter Coonan",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yabUqGppx_5ifzDk1GxJyVaZIsNplTmJLc0X7-r-B6Tu9EqGTrxyJ7o&s=10",
+    "character": "Mal",
+    "country": "Ireland",
+    "biography": "Peter Coonan is an Irish actor widely recognized for his acclaimed performance as Fran in the television series 'Love/Hate', playing front desk clerk Mal in Hokum (2026)."
+  },
+  {
+    "id": "cast_david_wilmot",
+    "name": "David Wilmot",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMjI4OTQxMjQ1Nl5BMl5BanBnXkFtZTcwNDQ4NDAyOA@@._V1_.jpg",
+    "character": "Jerry",
+    "country": "Ireland",
+    "biography": "David Wilmot is an award-winning Irish stage and screen actor known for his roles in 'Station Eleven' and 'The Guard', appearing as Jerry in Hokum (2026)."
+  },
+  {
+    "id": "cast_florence_ordesh",
+    "name": "Florence Ordesh",
+    "photo": "https://m.media-amazon.com/images/M/MV5BNzZiNTUzNzMtMmVhZi00ZDg5LWJmNjktNGY4YmFiYTNhYTUyXkEyXkFqcGc@._V1_.jpg",
+    "character": "Fiona",
+    "country": "United Kingdom",
+    "biography": "Florence Ordesh is an actress known for her compelling performances in film and television, portraying hotel bartender Fiona in Hokum (2026)."
+  },
+  {
+    "id": "cast_will_oconnell",
+    "name": "Will O'Connell",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaP6amZzmlzLrNrukKk2b_yff8fPjokBn1llWwxBoXhtxPnWis9Q48HXj&s=10",
+    "character": "Alby / Jack (The Jackass)",
+    "country": "Ireland",
+    "biography": "Will O'Connell is an Irish actor recognized for his versatile supporting roles in film and television, playing bellhop Alby in Hokum (2026)."
+  },
+  {
+    "id": "cast_michael_patric",
+    "name": "Michael Patric",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUnK4yadjZD5aVc7wVWUsnwzPMxT_sObriO4PKCA57_9iUO0woB1V0Drjj&s=10",
+    "character": "Fergal",
+    "country": "Ireland",
+    "biography": "Michael Patric is an Irish actor known for his work across various television and movie projects, portraying groundskeeper Fergal in Hokum (2026)."
+  },
+  {
+    "id": "cast_brendan_conroy",
+    "name": "Brendan Conroy",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPI0nyW27pMhvX7somGX5qiSH-VqooXQrYZ0R3oB-Sw2QOjCVHq4PSDJg&s=10",
+    "character": "Cob",
+    "country": "Ireland",
+    "biography": "Brendan Conroy is a veteran Irish character actor known for extensive credits in Irish cinema and theatre, playing hotel owner Cob in Hokum (2026)."
+  },
+  {
+    "id": "cast_austin_amelio",
+    "name": "Austin Amelio",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZmMXmWuPFW1Ugo_PuI6hy3lk5uIzwU7rKoLKC6f6n0u8LRKBxRhkN9nt&s=10",
+    "character": "The Conquistador",
+    "country": "United States",
+    "biography": "Austin Amelio is an American actor best known for his roles as Dwight in 'The Walking Dead' and 'Fear the Walking Dead', appearing as the Conquistador in Hokum (2026)."
   }
 
   
