@@ -2006,6 +2006,86 @@
     "character": "The Conquistador",
     "country": "United States",
     "biography": "Austin Amelio is an American actor best known for his roles as Dwight in 'The Walking Dead' and 'Fear the Walking Dead', appearing as the Conquistador in Hokum (2026)."
+  },
+  {
+    "id": "cast_m_damon",
+    "name": "Matt Damon",
+    "photo": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
+    "character": "Odysseus",
+    "country": "USA",
+    "biography": "Matt Damon stars as Odysseus, the legendary Greek king of Ithaca navigating his perilous journey home."
+  },
+  {
+    "id": "cast_t_holland",
+    "name": "Tom Holland",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tom_Holland_during_pro-am_Wentworth_golf_club_2023-2_%28cropped%29.jpg/250px-Tom_Holland_during_pro-am_Wentworth_golf_club_2023-2_%28cropped%29.jpg",
+    "character": "Telemachus",
+    "country": "UK",
+    "biography": "Tom Holland portrays Telemachus, the loyal son of Odysseus and Penelope searching for his lost father."
+  },
+  {
+    "id": "cast_a_hathaway",
+    "name": "Anne Hathaway",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Ya-jUcjNjtKmzKM7Wi7Mj_BqzHVbhIRgSDSG1g4gvA&s=10",
+    "character": "Penelope",
+    "country": "USA",
+    "biography": "Anne Hathaway stars as Penelope, the Queen of Ithaca who faithfully waits for Odysseus while fending off suitors."
+  },
+  {
+    "id": "cast_t_scott",
+    "name": "Travis Scott",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TravisScott-byPhilipRomano_%28cropped%29.jpg/250px-TravisScott-byPhilipRomano_%28cropped%29.jpg",
+    "character": "Bard",
+    "country": "USA",
+    "biography": "Travis Scott plays the Bard, embodying the oral storytelling traditions of Homer's epic."
+  },
+  {
+    "id": "cast_r_pattinson",
+    "name": "Robert Pattinson",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-HPpQCtL9p_pWXXATv7kYx8oGx52MNk3O5zhW6VasIqyz0xGG6nYor2W&s=10",
+    "character": "Antinous",
+    "country": "UK",
+    "biography": "Robert Pattinson portrays Antinous, one of the most arrogant and aggressive suitors of Penelope."
+  },
+  {
+    "id": "cast_c_hawkins",
+    "name": "Corey Hawkins",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Corey_Hawkins_at_the_2024_Toronto_International_Film_Festival_8.jpg/250px-Corey_Hawkins_at_the_2024_Toronto_International_Film_Festival_8.jpg",
+    "character": "Polybus",
+    "country": "USA",
+    "biography": "Corey Hawkins appears as Polybus, an Ithacan noble involved in the struggle for Penelope's hand."
+  },
+  {
+    "id": "cast_j_merz",
+    "name": "Jarreth J. Merz",
+    "photo": "https://image.tmdb.org/t/p/w500/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg",
+    "character": "Leodes",
+    "country": "Switzerland",
+    "biography": "Jarreth J. Merz plays Leodes, the priest among Penelope's suitors."
+  },
+  {
+    "id": "cast_n_nicotera",
+    "name": "Niko Nicotera",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7F0csMQg3I0UM_7uQUD4VO_c1HKlIBkKdXbrpyRVa2nQ3PQurcNvpbw&s=10",
+    "character": "Peisander",
+    "country": "Germany",
+    "biography": "Niko Nicotera appears as Peisander, one of the noble Ithacan suitors."
+  },
+  {
+    "id": "cast_e_page",
+    "name": "Elliot Page",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALlX7-99e9HhS46vP0Dyya0LHB6a-12VeBLMVlQktLA&s",
+    "character": "Sinon",
+    "country": "Canada",
+    "biography": "Elliot Page portrays Sinon, a clever Greek warrior instrumental in the Trojan War backstory."
+  },
+  {
+    "id": "cast_s_fernandez",
+    "name": "Shiloh Fernandez",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO177djzQ5xFN2pDE9GUz-uxYB3IdbqwOmPXIx7j9AnbzPI4cnPSXkgMc&s=10",
+    "character": "First Trojan",
+    "country": "USA",
+    "biography": "Shiloh Fernandez appears in the opening sequence depicting the fall of Troy."
   }
 
   
