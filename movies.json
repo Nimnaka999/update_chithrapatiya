@@ -1168,6 +1168,65 @@
       ]
     }
   }
-
+,
+   {
+    "id": "TheOdyssey_2026",
+    "type": "movie",
+    "title": "The Odyssey (2026)",
+    "description": "The film centers on Odysseus, the legendary Greek King of Ithaca, and his grueling 10-year journey back home following the end of the Trojan War. As Odysseus struggles against mythical monsters, sea storms, and divine forces to reunite with his family, his wife Penelope and son Telemachus must contend with ambitious suitors attempting to seize his kingdom and throne in his absence.",
+    "sinhalDescription": "The Odyssey (2026) යනු හෝමර්ගේ සුප්‍රකට ග්‍රීක මහා කාව්‍යය ඇසුරෙන් ක්රිස්ටෝෆර් නෝලන් විසින් අධ්‍යක්ෂණය කරන දැවැන්ත Epic Action-Fantasy චිත්‍රපටයකි. ට්‍රෝජන් යුද්ධයෙන් පසුව ඉතකාහි ඔඩිසියස් රජු (Matt Damon) සිය මව්බිම සහ පවුල වෙත ආපසු පැමිණීමට වසර 10ක් පුරා විවිධ මිථ්‍යා රක්ෂසයින්, දරුණු මුහුදු කුණාටු සහ ග්‍රීක දෙවිවරුන්ගේ බලපෑම් හමුවේ කරන අතිශය භයානක ගමනත්, ඔහු නැති අතරතුර රාජ්‍යය පැහැර ගැනීමට මානබලන සතුරන්ගෙන් සිය මාලිගය රැකගැනීමට ඔහුගේ බිරිඳ පෙනිලෝපි (Anne Hathaway) සහ පුත් ටෙලිමකස් (Tom Holland) කරන අරගලයත් වටා මෙහි කතාව ගොඩනැගී ඇත.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/1DOFJ6NwwaRUGX9clJBzZaFQN4RmxFurwf6FlWTqDTY/https/i.ibb.co/qFC7LsXf/gfbgfcbcgf.jpg?format=webp",
+    "imdbRating": 8.5,
+    "genres": [
+   "Action", 
+   "Fantasy"
+    ],
+    "categories": [
+   "popular-movies", 
+   "top-rated",
+   "latest-movies"
+    ],
+    "releaseYear": 2026,
+    "language": "English",
+    "country": "USA",
+    "status": "Released",
+    "runtime": "172 min",
+  "castIds": [
+  "cast_m_damon",
+  "cast_t_holland",
+  "cast_a_hathaway",
+  "cast_t_scott",
+  "cast_r_pattinson",
+  "cast_c_hawkins",
+  "cast_j_merz",
+  "cast_n_nicotera",
+  "cast_e_page",
+  "cast_s_fernandez"
+],
+    "video": {
+      "embedUrl": "https://drive.google.com/file/d/1NZZo_RHONYATaNdTK152R8Ojvd3zLW-N/view?usp=sharing",
+      "downloadLinks": [
+        {
+         "quality": "720P",
+        "size": "2.21 GB",
+        "language": "English",
+        "subtitle": "Sinhala",
+        "slug": "The-Odyssey-2026-720P",
+        "filename": "The.Odyssey.2026.720P.mp4",
+        "downloadUrl": "/api/download?id=1NZZo_RHONYATaNdTK152R8Ojvd3zLW-N&filename=The.Odyssey.2026.720P.mp4"
+        },
+        {
+           "quality": "480P",
+        "size": "399 MB",
+        "language": "English",
+        "subtitle": "Sinhala",
+        "slug": "The-Odyssey-2026-480P",
+        "filename": "The.Odyssey.2026.480P.mp4",
+        "downloadUrl": "https://github.com/heshanrusiru792/movies/releases/download/moviehere/The.Odyssey.2026.480P.mp4"
+        }
+      ]
+    }
+  }
   
 ]
