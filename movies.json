@@ -992,74 +992,14 @@
       ]
     }
   },
-  
-  {
+ {
     "id": "movie_backrooms_2026",
     "type": "movie",
     "title": "Backrooms (2026)",
     "description": "A furniture store owner and his therapist discover a dimension of seemingly endless liminal spaces accessed through the store's basement, plunging them into a harrowing psychological nightmare beyond reality.",
     "sinhalDescription": "Backrooms (2026) යනු Kane Parsons විසින් අධ්‍යක්ෂණය කරන ලද, අතිශය ජනප්‍රිය psychological horror සහ sci-fi ගණයට අයත් සිනමා නිර්මාණයකි. මෙහි කතාව දිවෙන්නේ ගෘහභාණ්ඩ අලෙවිසැලක බිම් මහළේ ඇති අමුතු දොරටුවක් හරහා, අනන්තයට දිවෙන මායාවී සහ විමතිය දනවන අවකාශයකට (Liminal spaces) ಸಿම්බා වන සාප්පු හිමියෙකු සහ ඔහුගේ මනෝචිකিৎසකවරිය වටාය. යථාර්ථයෙන් ඔබ්බට ගිය මේ බියකරු ලෝකයෙන් ගැලවීම සඳහා ඔවුන්ට මුහුණ දීමට සිදුවන භයානක අත්දැකීම් මෙමඟින් නිරූපණය වේ.\n\nමෙම චිත්‍රපටය බිහිසුණු දර්ශනවලට වඩා ප්‍රේක්ෂකයා තුළ ඇති කරන මානසික කුතුහලය සහ බිය උපරිමයෙන් දනවන ආකාරයට නිර්මාණය කර ඇත. අතිශය සාර්ථක ලෙස බොක්ස් ඔෆිස් වාර්තා තැබූ, සිනමා විචාරකයින්ගේ ඉහළ පැසසුමට ලක් වූ අද්භූත සිනමා අත්දැකීමකි!",
-    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?format=webp&width=574&height=861",
-    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?format=webp&width=1345&height=757",
-    "imdbRating": 7.4,
-    "genres": [
-      "Horror",
-      "Science Fiction",
-      "Mystery"
-    ],
-    "categories": [
-      "latest-movies",
-      "popular-movies",
-      "trending"
-    ],
-    "releaseYear": 2026,
-    "language": "English",
-    "country": "United States",
-    "status": "Released",
-    "runtime": "110 min",
-    "castIds": [
-    "cast_chiwetel_ejiofor",
-  "cast_renate_reinsve",
-  "cast_mark_duplass",
-  "cast_finn_bennett",
-  "cast_lukita_maxwell",
-  "cast_avan_jogia",
-  "cast_robert_bobroczkyi",
-  "cast_krista_kosonen"
-    ],
-    "video": {
-      "embedUrl": "https://drive.google.com/file/d/1JZ74_6WtLtSt82RNVNmW9yIpROwU_pQj/view?usp=sharing",
-      "downloadLinks": [
-        {
-          "quality": "720P",
-          "size": "929 MB",
-          "language": "English",
-          "subtitle": "Sinhala",
-          "slug": "backrooms-2026-720p",
-          "filename": "Backrooms_2026_720p.mp4",
-          "downloadUrl":"/api/download?id=1JZ74_6WtLtSt82RNVNmW9yIpROwU_pQj&filename=Obsession.2025 720p.mp4"
-				
-        },
-        {
-          "quality": "480P",
-          "size": "489 MB",
-          "language": "English",
-          "subtitle": "Sinhala",
-          "slug": "backrooms-2026-480p",
-          "filename": "Backrooms_2026_480p.mp4",
-          "downloadUrl": "https://github.com/Nimnaka999/movie/releases/download/backroom/Bakcrooms.2026.480P.mp4"
-        }
-      ]
-    }
-  },
-  {
-    "id": "movie_backrooms_2026",
-    "type": "movie",
-    "title": "Backrooms (2026)",
-    "description": "A furniture store owner and his therapist discover a dimension of seemingly endless liminal spaces accessed through the store's basement, plunging them into a harrowing psychological nightmare beyond reality.",
-    "sinhalDescription": "Backrooms (2026) යනු Kane Parsons විසින් අධ්‍යක්ෂණය කරන ලද, අතිශය ජනප්‍රිය psychological horror සහ sci-fi ගණයට අයත් සිනමා නිර්මාණයකි. මෙහි කතාව දිවෙන්නේ ගෘහභාණ්ඩ අලෙවිසැලක බිම් මහළේ ඇති අමුතු දොරටුවක් හරහා, අනන්තයට දිවෙන මායාවී සහ විමතිය දනවන අවකාශයකට (Liminal spaces) ಸಿම්බා වන සාප්පු හිමියෙකු සහ ඔහුගේ මනෝචිකিৎසකවරිය වටාය. යථාර්ථයෙන් ඔබ්බට ගිය මේ බියකරු ලෝකයෙන් ගැලවීම සඳහා ඔවුන්ට මුහුණ දීමට සිදුවන භයානක අත්දැකීම් මෙමඟින් නිරූපණය වේ.\n\nමෙම චිත්‍රපටය බිහිසුණු දර්ශනවලට වඩා ප්‍රේක්ෂකයා තුළ ඇති කරන මානසික කුතුහලය සහ බිය උපරිමයෙන් දනවන ආකාරයට නිර්මාණය කර ඇත. අතිශය සාර්ථක ලෙස බොක්ස් ඔෆිස් වාර්තා තැබූ, සිනමා විචාරකයින්ගේ ඉහළ පැසසුමට ලක් වූ අද්භූත සිනමා අත්දැකීමකි!",
-    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?format=webp&width=574&height=861",
-    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?format=webp&width=1345&height=757",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/enHgXH2GWRS4Ftor-QcnEhAq_-9YU9YHLAKdbXve61U/https/i.ibb.co/cX6Q056S/bckroom.jpg?format=webp",
     "imdbRating": 7.4,
     "genres": [
       "Horror",
@@ -1117,8 +1057,8 @@
     "title": "Hokum (2026)",
     "description": "An intense crime thriller following an intricate web of deceit, betrayal, and high-stakes corruption where nothing is as it seems.",
     "sinhalDescription": "Hokum (2026) යනු අපරාධ සහ ත්‍රාසජනක (Crime/Thriller) ගණයට අයත් වන අතිශය කුතුහලය දනවන සිනමා නිර්මාණයකි. මෙහි කතාව දිවෙන්නේ රැවටීම්, පාවාදීම් සහ දූෂණ ක්‍රියා අතර පැටලී යන සංකීර්ණ සිදුවීම් මාලාවක් වටාය. බැලූ බැල්මට පෙනෙන දේ පිටුපස ඇති සැබෑ යථාර්ථය සොයා යන ප්‍රධාන චරිතවලට මුහුණ දීමට සිදුවන අනපේක්ෂිත අභියෝග මෙමඟින් මනාව නිරූපණය වේ.\n\nමෙම චිත්‍රපටය මුල සිට අග දක්වා කුතුහලය රඳවා ගනිමින් ධාවනය වන, සිනමා රසිකයින් අතර ඉමහත් ජනප්‍රියත්වයට පත් වූ විශිෂ්ට නිර්මාණයකි!",
-    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?format=webp&width=574&height=861",
-    "backdropUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?format=webp&width=1345&height=757",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/0e6OAcG9RbHXg96391lO2dwobGM-ji0FMV117gnfYnA/https/i.ibb.co/zT24fPjn/hokm.jpg?format=webp",
     "imdbRating": 6.5,
     "genres": [
       "Crime",
@@ -1224,6 +1164,64 @@
         "slug": "The-Odyssey-2026-480P",
         "filename": "The.Odyssey.2026.480P.mp4",
         "downloadUrl": "https://github.com/heshanrusiru792/movies/releases/download/moviehere/The.Odyssey.2026.480P.mp4"
+        }
+      ]
+    }
+  }
+{
+    "id": "Passsenger_2026",
+    "type": "movie",
+    "title": "Passenger (2026)",
+    "description": "A furniture store owner and his therapist discover a dimension of seemingly endless liminal spaces accessed through the store's basement, plunging them into a harrowing psychological nightmare beyond reality.",
+    "sinhalDescription": "Backrooms (2026) යනු Kane Parsons විසින් අධ්‍යක්ෂණය කරන ලද, අතිශය ජනප්‍රිය psychological horror සහ sci-fi ගණයට අයත් සිනමා නිර්මාණයකි. මෙහි කතාව දිවෙන්නේ ගෘහභාණ්ඩ අලෙවිසැලක බිම් මහළේ ඇති අමුතු දොරටුවක් හරහා, අනන්තයට දිවෙන මායාවී සහ විමතිය දනවන අවකාශයකට (Liminal spaces) ಸಿම්බා වන සාප්පු හිමියෙකු සහ ඔහුගේ මනෝචිකিৎසකවරිය වටාය. යථාර්ථයෙන් ඔබ්බට ගිය මේ බියකරු ලෝකයෙන් ගැලවීම සඳහා ඔවුන්ට මුහුණ දීමට සිදුවන භයානක අත්දැකීම් මෙමඟින් නිරූපණය වේ.\n\nමෙම චිත්‍රපටය බිහිසුණු දර්ශනවලට වඩා ප්‍රේක්ෂකයා තුළ ඇති කරන මානසික කුතුහලය සහ බිය උපරිමයෙන් දනවන ආකාරයට නිර්මාණය කර ඇත. අතිශය සාර්ථක ලෙස බොක්ස් ඔෆිස් වාර්තා තැබූ, සිනමා විචාරකයින්ගේ ඉහළ පැසසුමට ලක් වූ අද්භූත සිනමා අත්දැකීමකි!",
+    "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Passenger_poster.jpg/250px-Passenger_poster.jpg",
+    "backdropUrl": "https://images-ext-1.discordapp.net/external/T6VqwxtcY31DvYTUsTKTqg_FntRD2sBdR9L9kjHI9EY/https/i.ibb.co/N2cykWGG/psger.jpg?format=webp",
+    "imdbRating": 7.4,
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "categories": [
+      "latest-movies",
+      "popular-movies",
+      "trending"
+    ],
+    "releaseYear": 2026,
+    "language": "English",
+    "country": "United States",
+    "status": "Released",
+    "runtime": "110 min",
+    "castIds": [
+      "cast_jacob_scipio",
+  "cast_lou_llobell",
+  "cast_melissa_leo",
+  "cast_joseph_lopez",
+  "cast_miles_fowler",
+  "cast_alan_trong",
+  "cast_tony_doupe",
+  "cast_bonni_dichone"
+    ],
+    "video": {
+      "embedUrl": "https://drive.google.com/file/d/12YLn8n2-Ok_HE1oa4JkUbvGL6FO9GNLV/view?usp=drive_link",
+      "downloadLinks": [
+        {
+          "quality": "720P",
+          "size": "2.3 GB",
+          "language": "English",
+          "subtitle": "Sinhala",
+          "slug": "backrooms-2026-1080p",
+          "filename": "Backrooms_2026_1080p.mp4",
+          "downloadUrl": "/api/download?id=12YLn8n2-Ok_HE1oa4JkUbvGL6FO9GNLV/view?usp&filename=Obsession.2025 720p.mp4"
+        },
+        {
+          "quality": "480P",
+          "size": "510 MB",
+          "language": "English",
+          "subtitle": "Sinhala",
+          "slug": "backrooms-2026-480p",
+          "filename": "Backrooms_2026_480p.mp4",
+          "downloadUrl": "https://github.com/Nimnaka999/movie/releases/download/passenger/Passenger.2026.480P.mp4"
         }
       ]
     }
